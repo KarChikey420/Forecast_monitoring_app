@@ -1,0 +1,5954 @@
+[
+  {
+    "targetTime": "2024-01-01T00:00:00Z",
+    "generation": 10402
+  },
+  {
+    "targetTime": "2024-01-01T00:30:00Z",
+    "generation": 10845
+  },
+  {
+    "targetTime": "2024-01-01T01:00:00Z",
+    "generation": 11218
+  },
+  {
+    "targetTime": "2024-01-01T01:30:00Z",
+    "generation": 11223
+  },
+  {
+    "targetTime": "2024-01-01T02:00:00Z",
+    "generation": 11234
+  },
+  {
+    "targetTime": "2024-01-01T02:30:00Z",
+    "generation": 11437
+  },
+  {
+    "targetTime": "2024-01-01T03:00:00Z",
+    "generation": 11434
+  },
+  {
+    "targetTime": "2024-01-01T03:30:00Z",
+    "generation": 11445
+  },
+  {
+    "targetTime": "2024-01-01T04:00:00Z",
+    "generation": 11828
+  },
+  {
+    "targetTime": "2024-01-01T04:30:00Z",
+    "generation": 11878
+  },
+  {
+    "targetTime": "2024-01-01T05:00:00Z",
+    "generation": 12037
+  },
+  {
+    "targetTime": "2024-01-01T05:30:00Z",
+    "generation": 12011
+  },
+  {
+    "targetTime": "2024-01-01T06:00:00Z",
+    "generation": 12044
+  },
+  {
+    "targetTime": "2024-01-01T06:30:00Z",
+    "generation": 12183
+  },
+  {
+    "targetTime": "2024-01-01T07:00:00Z",
+    "generation": 12303
+  },
+  {
+    "targetTime": "2024-01-01T07:30:00Z",
+    "generation": 12307
+  },
+  {
+    "targetTime": "2024-01-01T08:00:00Z",
+    "generation": 12361
+  },
+  {
+    "targetTime": "2024-01-01T08:30:00Z",
+    "generation": 12218
+  },
+  {
+    "targetTime": "2024-01-01T09:00:00Z",
+    "generation": 12017
+  },
+  {
+    "targetTime": "2024-01-01T09:30:00Z",
+    "generation": 11817
+  },
+  {
+    "targetTime": "2024-01-01T10:00:00Z",
+    "generation": 11379
+  },
+  {
+    "targetTime": "2024-01-01T10:30:00Z",
+    "generation": 10932
+  },
+  {
+    "targetTime": "2024-01-01T11:00:00Z",
+    "generation": 10679
+  },
+  {
+    "targetTime": "2024-01-01T11:30:00Z",
+    "generation": 10217
+  },
+  {
+    "targetTime": "2024-01-01T12:00:00Z",
+    "generation": 9828
+  },
+  {
+    "targetTime": "2024-01-01T12:30:00Z",
+    "generation": 9548
+  },
+  {
+    "targetTime": "2024-01-01T13:00:00Z",
+    "generation": 8874
+  },
+  {
+    "targetTime": "2024-01-01T13:30:00Z",
+    "generation": 8495
+  },
+  {
+    "targetTime": "2024-01-01T14:00:00Z",
+    "generation": 8058
+  },
+  {
+    "targetTime": "2024-01-01T14:30:00Z",
+    "generation": 8098
+  },
+  {
+    "targetTime": "2024-01-01T15:00:00Z",
+    "generation": 8162
+  },
+  {
+    "targetTime": "2024-01-01T15:30:00Z",
+    "generation": 8058
+  },
+  {
+    "targetTime": "2024-01-01T16:00:00Z",
+    "generation": 8634
+  },
+  {
+    "targetTime": "2024-01-01T16:30:00Z",
+    "generation": 9091
+  },
+  {
+    "targetTime": "2024-01-01T17:00:00Z",
+    "generation": 9204
+  },
+  {
+    "targetTime": "2024-01-01T17:30:00Z",
+    "generation": 9290
+  },
+  {
+    "targetTime": "2024-01-01T18:00:00Z",
+    "generation": 9665
+  },
+  {
+    "targetTime": "2024-01-01T18:30:00Z",
+    "generation": 10443
+  },
+  {
+    "targetTime": "2024-01-01T19:00:00Z",
+    "generation": 11212
+  },
+  {
+    "targetTime": "2024-01-01T19:30:00Z",
+    "generation": 12055
+  },
+  {
+    "targetTime": "2024-01-01T20:00:00Z",
+    "generation": 12519
+  },
+  {
+    "targetTime": "2024-01-01T20:30:00Z",
+    "generation": 13279
+  },
+  {
+    "targetTime": "2024-01-01T21:00:00Z",
+    "generation": 13953
+  },
+  {
+    "targetTime": "2024-01-01T21:30:00Z",
+    "generation": 13845
+  },
+  {
+    "targetTime": "2024-01-01T22:00:00Z",
+    "generation": 14217
+  },
+  {
+    "targetTime": "2024-01-01T22:30:00Z",
+    "generation": 14306
+  },
+  {
+    "targetTime": "2024-01-01T23:00:00Z",
+    "generation": 14958
+  },
+  {
+    "targetTime": "2024-01-01T23:30:00Z",
+    "generation": 14666
+  },
+  {
+    "targetTime": "2024-01-02T00:00:00Z",
+    "generation": 14690
+  },
+  {
+    "targetTime": "2024-01-02T00:30:00Z",
+    "generation": 14510
+  },
+  {
+    "targetTime": "2024-01-02T01:00:00Z",
+    "generation": 14592
+  },
+  {
+    "targetTime": "2024-01-02T01:30:00Z",
+    "generation": 14388
+  },
+  {
+    "targetTime": "2024-01-02T02:00:00Z",
+    "generation": 14032
+  },
+  {
+    "targetTime": "2024-01-02T02:30:00Z",
+    "generation": 13748
+  },
+  {
+    "targetTime": "2024-01-02T03:00:00Z",
+    "generation": 13403
+  },
+  {
+    "targetTime": "2024-01-02T03:30:00Z",
+    "generation": 13232
+  },
+  {
+    "targetTime": "2024-01-02T04:00:00Z",
+    "generation": 13245
+  },
+  {
+    "targetTime": "2024-01-02T04:30:00Z",
+    "generation": 13041
+  },
+  {
+    "targetTime": "2024-01-02T05:00:00Z",
+    "generation": 12635
+  },
+  {
+    "targetTime": "2024-01-02T05:30:00Z",
+    "generation": 12711
+  },
+  {
+    "targetTime": "2024-01-02T06:00:00Z",
+    "generation": 12764
+  },
+  {
+    "targetTime": "2024-01-02T06:30:00Z",
+    "generation": 12323
+  },
+  {
+    "targetTime": "2024-01-02T07:00:00Z",
+    "generation": 11925
+  },
+  {
+    "targetTime": "2024-01-02T07:30:00Z",
+    "generation": 11711
+  },
+  {
+    "targetTime": "2024-01-02T08:00:00Z",
+    "generation": 11866
+  },
+  {
+    "targetTime": "2024-01-02T08:30:00Z",
+    "generation": 12035
+  },
+  {
+    "targetTime": "2024-01-02T09:00:00Z",
+    "generation": 11505
+  },
+  {
+    "targetTime": "2024-01-02T09:30:00Z",
+    "generation": 10760
+  },
+  {
+    "targetTime": "2024-01-02T10:00:00Z",
+    "generation": 10399
+  },
+  {
+    "targetTime": "2024-01-02T10:30:00Z",
+    "generation": 9546
+  },
+  {
+    "targetTime": "2024-01-02T11:00:00Z",
+    "generation": 8795
+  },
+  {
+    "targetTime": "2024-01-02T11:30:00Z",
+    "generation": 8667
+  },
+  {
+    "targetTime": "2024-01-02T12:00:00Z",
+    "generation": 8281
+  },
+  {
+    "targetTime": "2024-01-02T12:30:00Z",
+    "generation": 7557
+  },
+  {
+    "targetTime": "2024-01-02T13:00:00Z",
+    "generation": 7344
+  },
+  {
+    "targetTime": "2024-01-02T13:30:00Z",
+    "generation": 7180
+  },
+  {
+    "targetTime": "2024-01-02T14:00:00Z",
+    "generation": 7249
+  },
+  {
+    "targetTime": "2024-01-02T14:30:00Z",
+    "generation": 7672
+  },
+  {
+    "targetTime": "2024-01-02T15:00:00Z",
+    "generation": 7870
+  },
+  {
+    "targetTime": "2024-01-02T15:30:00Z",
+    "generation": 8115
+  },
+  {
+    "targetTime": "2024-01-02T16:00:00Z",
+    "generation": 8208
+  },
+  {
+    "targetTime": "2024-01-02T16:30:00Z",
+    "generation": 8935
+  },
+  {
+    "targetTime": "2024-01-02T17:00:00Z",
+    "generation": 9635
+  },
+  {
+    "targetTime": "2024-01-02T17:30:00Z",
+    "generation": 9771
+  },
+  {
+    "targetTime": "2024-01-02T18:00:00Z",
+    "generation": 10183
+  },
+  {
+    "targetTime": "2024-01-02T18:30:00Z",
+    "generation": 10043
+  },
+  {
+    "targetTime": "2024-01-02T19:00:00Z",
+    "generation": 9919
+  },
+  {
+    "targetTime": "2024-01-02T19:30:00Z",
+    "generation": 10271
+  },
+  {
+    "targetTime": "2024-01-02T20:00:00Z",
+    "generation": 11051
+  },
+  {
+    "targetTime": "2024-01-02T20:30:00Z",
+    "generation": 11338
+  },
+  {
+    "targetTime": "2024-01-02T21:00:00Z",
+    "generation": 11263
+  },
+  {
+    "targetTime": "2024-01-02T21:30:00Z",
+    "generation": 11467
+  },
+  {
+    "targetTime": "2024-01-02T22:00:00Z",
+    "generation": 11480
+  },
+  {
+    "targetTime": "2024-01-02T22:30:00Z",
+    "generation": 11364
+  },
+  {
+    "targetTime": "2024-01-02T23:00:00Z",
+    "generation": 10992
+  },
+  {
+    "targetTime": "2024-01-02T23:30:00Z",
+    "generation": 10922
+  },
+  {
+    "targetTime": "2024-01-03T00:00:00Z",
+    "generation": 10672
+  },
+  {
+    "targetTime": "2024-01-03T00:30:00Z",
+    "generation": 10530
+  },
+  {
+    "targetTime": "2024-01-03T01:00:00Z",
+    "generation": 10293
+  },
+  {
+    "targetTime": "2024-01-03T01:30:00Z",
+    "generation": 10418
+  },
+  {
+    "targetTime": "2024-01-03T02:00:00Z",
+    "generation": 10226
+  },
+  {
+    "targetTime": "2024-01-03T02:30:00Z",
+    "generation": 9940
+  },
+  {
+    "targetTime": "2024-01-03T03:00:00Z",
+    "generation": 10059
+  },
+  {
+    "targetTime": "2024-01-03T03:30:00Z",
+    "generation": 9889
+  },
+  {
+    "targetTime": "2024-01-03T04:00:00Z",
+    "generation": 9599
+  },
+  {
+    "targetTime": "2024-01-03T04:30:00Z",
+    "generation": 9680
+  },
+  {
+    "targetTime": "2024-01-03T05:00:00Z",
+    "generation": 9463
+  },
+  {
+    "targetTime": "2024-01-03T05:30:00Z",
+    "generation": 9484
+  },
+  {
+    "targetTime": "2024-01-03T06:00:00Z",
+    "generation": 9387
+  },
+  {
+    "targetTime": "2024-01-03T06:30:00Z",
+    "generation": 9326
+  },
+  {
+    "targetTime": "2024-01-03T07:00:00Z",
+    "generation": 8927
+  },
+  {
+    "targetTime": "2024-01-03T07:30:00Z",
+    "generation": 8565
+  },
+  {
+    "targetTime": "2024-01-03T08:00:00Z",
+    "generation": 8396
+  },
+  {
+    "targetTime": "2024-01-03T08:30:00Z",
+    "generation": 7841
+  },
+  {
+    "targetTime": "2024-01-03T09:00:00Z",
+    "generation": 7245
+  },
+  {
+    "targetTime": "2024-01-03T09:30:00Z",
+    "generation": 6934
+  },
+  {
+    "targetTime": "2024-01-03T10:00:00Z",
+    "generation": 6794
+  },
+  {
+    "targetTime": "2024-01-03T10:30:00Z",
+    "generation": 6620
+  },
+  {
+    "targetTime": "2024-01-03T11:00:00Z",
+    "generation": 6484
+  },
+  {
+    "targetTime": "2024-01-03T11:30:00Z",
+    "generation": 6258
+  },
+  {
+    "targetTime": "2024-01-03T12:00:00Z",
+    "generation": 6200
+  },
+  {
+    "targetTime": "2024-01-03T12:30:00Z",
+    "generation": 6088
+  },
+  {
+    "targetTime": "2024-01-03T13:00:00Z",
+    "generation": 5823
+  },
+  {
+    "targetTime": "2024-01-03T13:30:00Z",
+    "generation": 5825
+  },
+  {
+    "targetTime": "2024-01-03T14:00:00Z",
+    "generation": 5928
+  },
+  {
+    "targetTime": "2024-01-03T14:30:00Z",
+    "generation": 5826
+  },
+  {
+    "targetTime": "2024-01-03T15:00:00Z",
+    "generation": 6052
+  },
+  {
+    "targetTime": "2024-01-03T15:30:00Z",
+    "generation": 6367
+  },
+  {
+    "targetTime": "2024-01-03T16:00:00Z",
+    "generation": 6591
+  },
+  {
+    "targetTime": "2024-01-03T16:30:00Z",
+    "generation": 6805
+  },
+  {
+    "targetTime": "2024-01-03T17:00:00Z",
+    "generation": 7044
+  },
+  {
+    "targetTime": "2024-01-03T17:30:00Z",
+    "generation": 7119
+  },
+  {
+    "targetTime": "2024-01-03T18:00:00Z",
+    "generation": 7192
+  },
+  {
+    "targetTime": "2024-01-03T18:30:00Z",
+    "generation": 7171
+  },
+  {
+    "targetTime": "2024-01-03T19:00:00Z",
+    "generation": 7131
+  },
+  {
+    "targetTime": "2024-01-03T19:30:00Z",
+    "generation": 7150
+  },
+  {
+    "targetTime": "2024-01-03T20:00:00Z",
+    "generation": 7039
+  },
+  {
+    "targetTime": "2024-01-03T20:30:00Z",
+    "generation": 7005
+  },
+  {
+    "targetTime": "2024-01-03T21:00:00Z",
+    "generation": 6945
+  },
+  {
+    "targetTime": "2024-01-03T21:30:00Z",
+    "generation": 6773
+  },
+  {
+    "targetTime": "2024-01-03T22:00:00Z",
+    "generation": 6611
+  },
+  {
+    "targetTime": "2024-01-03T22:30:00Z",
+    "generation": 6680
+  },
+  {
+    "targetTime": "2024-01-03T23:00:00Z",
+    "generation": 6813
+  },
+  {
+    "targetTime": "2024-01-03T23:30:00Z",
+    "generation": 6793
+  },
+  {
+    "targetTime": "2024-01-04T00:00:00Z",
+    "generation": 7112
+  },
+  {
+    "targetTime": "2024-01-04T00:30:00Z",
+    "generation": 7536
+  },
+  {
+    "targetTime": "2024-01-04T01:00:00Z",
+    "generation": 7743
+  },
+  {
+    "targetTime": "2024-01-04T01:30:00Z",
+    "generation": 8071
+  },
+  {
+    "targetTime": "2024-01-04T02:00:00Z",
+    "generation": 8269
+  },
+  {
+    "targetTime": "2024-01-04T02:30:00Z",
+    "generation": 8255
+  },
+  {
+    "targetTime": "2024-01-04T03:00:00Z",
+    "generation": 8118
+  },
+  {
+    "targetTime": "2024-01-04T03:30:00Z",
+    "generation": 7866
+  },
+  {
+    "targetTime": "2024-01-04T04:00:00Z",
+    "generation": 7666
+  },
+  {
+    "targetTime": "2024-01-04T04:30:00Z",
+    "generation": 7708
+  },
+  {
+    "targetTime": "2024-01-04T05:00:00Z",
+    "generation": 7859
+  },
+  {
+    "targetTime": "2024-01-04T05:30:00Z",
+    "generation": 8218
+  },
+  {
+    "targetTime": "2024-01-04T06:00:00Z",
+    "generation": 8359
+  },
+  {
+    "targetTime": "2024-01-04T06:30:00Z",
+    "generation": 8212
+  },
+  {
+    "targetTime": "2024-01-04T07:00:00Z",
+    "generation": 7815
+  },
+  {
+    "targetTime": "2024-01-04T07:30:00Z",
+    "generation": 7266
+  },
+  {
+    "targetTime": "2024-01-04T08:00:00Z",
+    "generation": 6880
+  },
+  {
+    "targetTime": "2024-01-04T08:30:00Z",
+    "generation": 6898
+  },
+  {
+    "targetTime": "2024-01-04T09:00:00Z",
+    "generation": 6841
+  },
+  {
+    "targetTime": "2024-01-04T09:30:00Z",
+    "generation": 6731
+  },
+  {
+    "targetTime": "2024-01-04T10:00:00Z",
+    "generation": 6394
+  },
+  {
+    "targetTime": "2024-01-04T10:30:00Z",
+    "generation": 6032
+  },
+  {
+    "targetTime": "2024-01-04T11:00:00Z",
+    "generation": 5193
+  },
+  {
+    "targetTime": "2024-01-04T11:30:00Z",
+    "generation": 4691
+  },
+  {
+    "targetTime": "2024-01-04T12:00:00Z",
+    "generation": 4421
+  },
+  {
+    "targetTime": "2024-01-04T12:30:00Z",
+    "generation": 4091
+  },
+  {
+    "targetTime": "2024-01-04T13:00:00Z",
+    "generation": 3544
+  },
+  {
+    "targetTime": "2024-01-04T13:30:00Z",
+    "generation": 3291
+  },
+  {
+    "targetTime": "2024-01-04T14:00:00Z",
+    "generation": 3394
+  },
+  {
+    "targetTime": "2024-01-04T14:30:00Z",
+    "generation": 3168
+  },
+  {
+    "targetTime": "2024-01-04T15:00:00Z",
+    "generation": 2988
+  },
+  {
+    "targetTime": "2024-01-04T15:30:00Z",
+    "generation": 3004
+  },
+  {
+    "targetTime": "2024-01-04T16:00:00Z",
+    "generation": 3039
+  },
+  {
+    "targetTime": "2024-01-04T16:30:00Z",
+    "generation": 3074
+  },
+  {
+    "targetTime": "2024-01-04T17:00:00Z",
+    "generation": 3204
+  },
+  {
+    "targetTime": "2024-01-04T17:30:00Z",
+    "generation": 3277
+  },
+  {
+    "targetTime": "2024-01-04T18:00:00Z",
+    "generation": 3862
+  },
+  {
+    "targetTime": "2024-01-04T18:30:00Z",
+    "generation": 4177
+  },
+  {
+    "targetTime": "2024-01-04T19:00:00Z",
+    "generation": 4459
+  },
+  {
+    "targetTime": "2024-01-04T19:30:00Z",
+    "generation": 4669
+  },
+  {
+    "targetTime": "2024-01-04T20:00:00Z",
+    "generation": 4751
+  },
+  {
+    "targetTime": "2024-01-04T20:30:00Z",
+    "generation": 5048
+  },
+  {
+    "targetTime": "2024-01-04T21:00:00Z",
+    "generation": 5331
+  },
+  {
+    "targetTime": "2024-01-04T21:30:00Z",
+    "generation": 5361
+  },
+  {
+    "targetTime": "2024-01-04T22:00:00Z",
+    "generation": 5052
+  },
+  {
+    "targetTime": "2024-01-04T22:30:00Z",
+    "generation": 5148
+  },
+  {
+    "targetTime": "2024-01-04T23:00:00Z",
+    "generation": 5263
+  },
+  {
+    "targetTime": "2024-01-04T23:30:00Z",
+    "generation": 5428
+  },
+  {
+    "targetTime": "2024-01-05T00:00:00Z",
+    "generation": 5740
+  },
+  {
+    "targetTime": "2024-01-05T00:30:00Z",
+    "generation": 5799
+  },
+  {
+    "targetTime": "2024-01-05T01:00:00Z",
+    "generation": 5813
+  },
+  {
+    "targetTime": "2024-01-05T01:30:00Z",
+    "generation": 6007
+  },
+  {
+    "targetTime": "2024-01-05T02:00:00Z",
+    "generation": 5990
+  },
+  {
+    "targetTime": "2024-01-05T02:30:00Z",
+    "generation": 6535
+  },
+  {
+    "targetTime": "2024-01-05T03:00:00Z",
+    "generation": 6547
+  },
+  {
+    "targetTime": "2024-01-05T03:30:00Z",
+    "generation": 6637
+  },
+  {
+    "targetTime": "2024-01-05T04:00:00Z",
+    "generation": 6416
+  },
+  {
+    "targetTime": "2024-01-05T04:30:00Z",
+    "generation": 6393
+  },
+  {
+    "targetTime": "2024-01-05T05:00:00Z",
+    "generation": 6485
+  },
+  {
+    "targetTime": "2024-01-05T05:30:00Z",
+    "generation": 7266
+  },
+  {
+    "targetTime": "2024-01-05T06:00:00Z",
+    "generation": 7916
+  },
+  {
+    "targetTime": "2024-01-05T06:30:00Z",
+    "generation": 8154
+  },
+  {
+    "targetTime": "2024-01-05T07:00:00Z",
+    "generation": 8250
+  },
+  {
+    "targetTime": "2024-01-05T07:30:00Z",
+    "generation": 8265
+  },
+  {
+    "targetTime": "2024-01-05T08:00:00Z",
+    "generation": 8316
+  },
+  {
+    "targetTime": "2024-01-05T08:30:00Z",
+    "generation": 8672
+  },
+  {
+    "targetTime": "2024-01-05T09:00:00Z",
+    "generation": 8545
+  },
+  {
+    "targetTime": "2024-01-05T09:30:00Z",
+    "generation": 8173
+  },
+  {
+    "targetTime": "2024-01-05T10:00:00Z",
+    "generation": 8007
+  },
+  {
+    "targetTime": "2024-01-05T10:30:00Z",
+    "generation": 7973
+  },
+  {
+    "targetTime": "2024-01-05T11:00:00Z",
+    "generation": 8164
+  },
+  {
+    "targetTime": "2024-01-05T11:30:00Z",
+    "generation": 8430
+  },
+  {
+    "targetTime": "2024-01-05T12:00:00Z",
+    "generation": 8539
+  },
+  {
+    "targetTime": "2024-01-05T12:30:00Z",
+    "generation": 8670
+  },
+  {
+    "targetTime": "2024-01-05T13:00:00Z",
+    "generation": 8724
+  },
+  {
+    "targetTime": "2024-01-05T13:30:00Z",
+    "generation": 8771
+  },
+  {
+    "targetTime": "2024-01-05T14:00:00Z",
+    "generation": 8984
+  },
+  {
+    "targetTime": "2024-01-05T14:30:00Z",
+    "generation": 8839
+  },
+  {
+    "targetTime": "2024-01-05T15:00:00Z",
+    "generation": 8657
+  },
+  {
+    "targetTime": "2024-01-05T15:30:00Z",
+    "generation": 8476
+  },
+  {
+    "targetTime": "2024-01-05T16:00:00Z",
+    "generation": 8416
+  },
+  {
+    "targetTime": "2024-01-05T16:30:00Z",
+    "generation": 8259
+  },
+  {
+    "targetTime": "2024-01-05T17:00:00Z",
+    "generation": 7986
+  },
+  {
+    "targetTime": "2024-01-05T17:30:00Z",
+    "generation": 7852
+  },
+  {
+    "targetTime": "2024-01-05T18:00:00Z",
+    "generation": 7790
+  },
+  {
+    "targetTime": "2024-01-05T18:30:00Z",
+    "generation": 7484
+  },
+  {
+    "targetTime": "2024-01-05T19:00:00Z",
+    "generation": 7236
+  },
+  {
+    "targetTime": "2024-01-05T19:30:00Z",
+    "generation": 7284
+  },
+  {
+    "targetTime": "2024-01-05T20:00:00Z",
+    "generation": 7104
+  },
+  {
+    "targetTime": "2024-01-05T20:30:00Z",
+    "generation": 6659
+  },
+  {
+    "targetTime": "2024-01-05T21:00:00Z",
+    "generation": 6579
+  },
+  {
+    "targetTime": "2024-01-05T21:30:00Z",
+    "generation": 6555
+  },
+  {
+    "targetTime": "2024-01-05T22:00:00Z",
+    "generation": 6280
+  },
+  {
+    "targetTime": "2024-01-05T22:30:00Z",
+    "generation": 6020
+  },
+  {
+    "targetTime": "2024-01-05T23:00:00Z",
+    "generation": 5845
+  },
+  {
+    "targetTime": "2024-01-05T23:30:00Z",
+    "generation": 5746
+  },
+  {
+    "targetTime": "2024-01-06T00:00:00Z",
+    "generation": 5741
+  },
+  {
+    "targetTime": "2024-01-06T00:30:00Z",
+    "generation": 5860
+  },
+  {
+    "targetTime": "2024-01-06T01:00:00Z",
+    "generation": 5877
+  },
+  {
+    "targetTime": "2024-01-06T01:30:00Z",
+    "generation": 6004
+  },
+  {
+    "targetTime": "2024-01-06T02:00:00Z",
+    "generation": 6107
+  },
+  {
+    "targetTime": "2024-01-06T02:30:00Z",
+    "generation": 6127
+  },
+  {
+    "targetTime": "2024-01-06T03:00:00Z",
+    "generation": 6074
+  },
+  {
+    "targetTime": "2024-01-06T03:30:00Z",
+    "generation": 5968
+  },
+  {
+    "targetTime": "2024-01-06T04:00:00Z",
+    "generation": 5871
+  },
+  {
+    "targetTime": "2024-01-06T04:30:00Z",
+    "generation": 5784
+  },
+  {
+    "targetTime": "2024-01-06T05:00:00Z",
+    "generation": 5734
+  },
+  {
+    "targetTime": "2024-01-06T05:30:00Z",
+    "generation": 5687
+  },
+  {
+    "targetTime": "2024-01-06T06:00:00Z",
+    "generation": 5712
+  },
+  {
+    "targetTime": "2024-01-06T06:30:00Z",
+    "generation": 5868
+  },
+  {
+    "targetTime": "2024-01-06T07:00:00Z",
+    "generation": 6033
+  },
+  {
+    "targetTime": "2024-01-06T07:30:00Z",
+    "generation": 5887
+  },
+  {
+    "targetTime": "2024-01-06T08:00:00Z",
+    "generation": 5771
+  },
+  {
+    "targetTime": "2024-01-06T08:30:00Z",
+    "generation": 5610
+  },
+  {
+    "targetTime": "2024-01-06T09:00:00Z",
+    "generation": 5244
+  },
+  {
+    "targetTime": "2024-01-06T09:30:00Z",
+    "generation": 5113
+  },
+  {
+    "targetTime": "2024-01-06T10:00:00Z",
+    "generation": 4940
+  },
+  {
+    "targetTime": "2024-01-06T10:30:00Z",
+    "generation": 4782
+  },
+  {
+    "targetTime": "2024-01-06T11:00:00Z",
+    "generation": 4696
+  },
+  {
+    "targetTime": "2024-01-06T11:30:00Z",
+    "generation": 4599
+  },
+  {
+    "targetTime": "2024-01-06T12:00:00Z",
+    "generation": 4362
+  },
+  {
+    "targetTime": "2024-01-06T12:30:00Z",
+    "generation": 4529
+  },
+  {
+    "targetTime": "2024-01-06T13:00:00Z",
+    "generation": 4591
+  },
+  {
+    "targetTime": "2024-01-06T13:30:00Z",
+    "generation": 4683
+  },
+  {
+    "targetTime": "2024-01-06T14:00:00Z",
+    "generation": 4539
+  },
+  {
+    "targetTime": "2024-01-06T14:30:00Z",
+    "generation": 4613
+  },
+  {
+    "targetTime": "2024-01-06T15:00:00Z",
+    "generation": 4631
+  },
+  {
+    "targetTime": "2024-01-06T15:30:00Z",
+    "generation": 4864
+  },
+  {
+    "targetTime": "2024-01-06T16:00:00Z",
+    "generation": 5248
+  },
+  {
+    "targetTime": "2024-01-06T16:30:00Z",
+    "generation": 5194
+  },
+  {
+    "targetTime": "2024-01-06T17:00:00Z",
+    "generation": 5212
+  },
+  {
+    "targetTime": "2024-01-06T17:30:00Z",
+    "generation": 5203
+  },
+  {
+    "targetTime": "2024-01-06T18:00:00Z",
+    "generation": 5050
+  },
+  {
+    "targetTime": "2024-01-06T18:30:00Z",
+    "generation": 4778
+  },
+  {
+    "targetTime": "2024-01-06T19:00:00Z",
+    "generation": 4878
+  },
+  {
+    "targetTime": "2024-01-06T19:30:00Z",
+    "generation": 4946
+  },
+  {
+    "targetTime": "2024-01-06T20:00:00Z",
+    "generation": 5132
+  },
+  {
+    "targetTime": "2024-01-06T20:30:00Z",
+    "generation": 4911
+  },
+  {
+    "targetTime": "2024-01-06T21:00:00Z",
+    "generation": 4916
+  },
+  {
+    "targetTime": "2024-01-06T21:30:00Z",
+    "generation": 4906
+  },
+  {
+    "targetTime": "2024-01-06T22:00:00Z",
+    "generation": 5090
+  },
+  {
+    "targetTime": "2024-01-06T22:30:00Z",
+    "generation": 5275
+  },
+  {
+    "targetTime": "2024-01-06T23:00:00Z",
+    "generation": 5175
+  },
+  {
+    "targetTime": "2024-01-06T23:30:00Z",
+    "generation": 5390
+  },
+  {
+    "targetTime": "2024-01-07T00:00:00Z",
+    "generation": 5708
+  },
+  {
+    "targetTime": "2024-01-07T00:30:00Z",
+    "generation": 5552
+  },
+  {
+    "targetTime": "2024-01-07T01:00:00Z",
+    "generation": 5803
+  },
+  {
+    "targetTime": "2024-01-07T01:30:00Z",
+    "generation": 5946
+  },
+  {
+    "targetTime": "2024-01-07T02:00:00Z",
+    "generation": 5904
+  },
+  {
+    "targetTime": "2024-01-07T02:30:00Z",
+    "generation": 5770
+  },
+  {
+    "targetTime": "2024-01-07T03:00:00Z",
+    "generation": 5881
+  },
+  {
+    "targetTime": "2024-01-07T03:30:00Z",
+    "generation": 6176
+  },
+  {
+    "targetTime": "2024-01-07T04:00:00Z",
+    "generation": 6342
+  },
+  {
+    "targetTime": "2024-01-07T04:30:00Z",
+    "generation": 6066
+  },
+  {
+    "targetTime": "2024-01-07T05:00:00Z",
+    "generation": 6290
+  },
+  {
+    "targetTime": "2024-01-07T05:30:00Z",
+    "generation": 6434
+  },
+  {
+    "targetTime": "2024-01-07T06:00:00Z",
+    "generation": 6402
+  },
+  {
+    "targetTime": "2024-01-07T06:30:00Z",
+    "generation": 6440
+  },
+  {
+    "targetTime": "2024-01-07T07:00:00Z",
+    "generation": 6138
+  },
+  {
+    "targetTime": "2024-01-07T07:30:00Z",
+    "generation": 6109
+  },
+  {
+    "targetTime": "2024-01-07T08:00:00Z",
+    "generation": 6044
+  },
+  {
+    "targetTime": "2024-01-07T08:30:00Z",
+    "generation": 5612
+  },
+  {
+    "targetTime": "2024-01-07T09:00:00Z",
+    "generation": 5549
+  },
+  {
+    "targetTime": "2024-01-07T09:30:00Z",
+    "generation": 5385
+  },
+  {
+    "targetTime": "2024-01-07T10:00:00Z",
+    "generation": 5311
+  },
+  {
+    "targetTime": "2024-01-07T10:30:00Z",
+    "generation": 5015
+  },
+  {
+    "targetTime": "2024-01-07T11:00:00Z",
+    "generation": 4848
+  },
+  {
+    "targetTime": "2024-01-07T11:30:00Z",
+    "generation": 4648
+  },
+  {
+    "targetTime": "2024-01-07T12:00:00Z",
+    "generation": 4435
+  },
+  {
+    "targetTime": "2024-01-07T12:30:00Z",
+    "generation": 4391
+  },
+  {
+    "targetTime": "2024-01-07T13:00:00Z",
+    "generation": 4437
+  },
+  {
+    "targetTime": "2024-01-07T13:30:00Z",
+    "generation": 4327
+  },
+  {
+    "targetTime": "2024-01-07T14:00:00Z",
+    "generation": 4332
+  },
+  {
+    "targetTime": "2024-01-07T14:30:00Z",
+    "generation": 4352
+  },
+  {
+    "targetTime": "2024-01-07T15:00:00Z",
+    "generation": 4325
+  },
+  {
+    "targetTime": "2024-01-07T15:30:00Z",
+    "generation": 4315
+  },
+  {
+    "targetTime": "2024-01-07T16:00:00Z",
+    "generation": 4299
+  },
+  {
+    "targetTime": "2024-01-07T16:30:00Z",
+    "generation": 4305
+  },
+  {
+    "targetTime": "2024-01-07T17:00:00Z",
+    "generation": 4316
+  },
+  {
+    "targetTime": "2024-01-07T17:30:00Z",
+    "generation": 4325
+  },
+  {
+    "targetTime": "2024-01-07T18:00:00Z",
+    "generation": 4324
+  },
+  {
+    "targetTime": "2024-01-07T18:30:00Z",
+    "generation": 4281
+  },
+  {
+    "targetTime": "2024-01-07T19:00:00Z",
+    "generation": 4202
+  },
+  {
+    "targetTime": "2024-01-07T19:30:00Z",
+    "generation": 4169
+  },
+  {
+    "targetTime": "2024-01-07T20:00:00Z",
+    "generation": 4032
+  },
+  {
+    "targetTime": "2024-01-07T20:30:00Z",
+    "generation": 4017
+  },
+  {
+    "targetTime": "2024-01-07T21:00:00Z",
+    "generation": 3992
+  },
+  {
+    "targetTime": "2024-01-07T21:30:00Z",
+    "generation": 4030
+  },
+  {
+    "targetTime": "2024-01-07T22:00:00Z",
+    "generation": 3994
+  },
+  {
+    "targetTime": "2024-01-07T22:30:00Z",
+    "generation": 4100
+  },
+  {
+    "targetTime": "2024-01-07T23:00:00Z",
+    "generation": 4242
+  },
+  {
+    "targetTime": "2024-01-07T23:30:00Z",
+    "generation": 4275
+  },
+  {
+    "targetTime": "2024-01-08T00:00:00Z",
+    "generation": 4629
+  },
+  {
+    "targetTime": "2024-01-08T00:30:00Z",
+    "generation": 4730
+  },
+  {
+    "targetTime": "2024-01-08T01:00:00Z",
+    "generation": 5033
+  },
+  {
+    "targetTime": "2024-01-08T01:30:00Z",
+    "generation": 5215
+  },
+  {
+    "targetTime": "2024-01-08T02:00:00Z",
+    "generation": 5342
+  },
+  {
+    "targetTime": "2024-01-08T02:30:00Z",
+    "generation": 6043
+  },
+  {
+    "targetTime": "2024-01-08T03:00:00Z",
+    "generation": 6274
+  },
+  {
+    "targetTime": "2024-01-08T03:30:00Z",
+    "generation": 6533
+  },
+  {
+    "targetTime": "2024-01-08T04:00:00Z",
+    "generation": 6980
+  },
+  {
+    "targetTime": "2024-01-08T04:30:00Z",
+    "generation": 6945
+  },
+  {
+    "targetTime": "2024-01-08T05:00:00Z",
+    "generation": 7381
+  },
+  {
+    "targetTime": "2024-01-08T05:30:00Z",
+    "generation": 7292
+  },
+  {
+    "targetTime": "2024-01-08T06:00:00Z",
+    "generation": 7472
+  },
+  {
+    "targetTime": "2024-01-08T06:30:00Z",
+    "generation": 7502
+  },
+  {
+    "targetTime": "2024-01-08T07:00:00Z",
+    "generation": 7640
+  },
+  {
+    "targetTime": "2024-01-08T07:30:00Z",
+    "generation": 8031
+  },
+  {
+    "targetTime": "2024-01-08T08:00:00Z",
+    "generation": 8230
+  },
+  {
+    "targetTime": "2024-01-08T08:30:00Z",
+    "generation": 8551
+  },
+  {
+    "targetTime": "2024-01-08T09:00:00Z",
+    "generation": 8833
+  },
+  {
+    "targetTime": "2024-01-08T09:30:00Z",
+    "generation": 9199
+  },
+  {
+    "targetTime": "2024-01-08T10:00:00Z",
+    "generation": 9334
+  },
+  {
+    "targetTime": "2024-01-08T10:30:00Z",
+    "generation": 9545
+  },
+  {
+    "targetTime": "2024-01-08T11:00:00Z",
+    "generation": 9777
+  },
+  {
+    "targetTime": "2024-01-08T11:30:00Z",
+    "generation": 9986
+  },
+  {
+    "targetTime": "2024-01-08T12:00:00Z",
+    "generation": 10111
+  },
+  {
+    "targetTime": "2024-01-08T12:30:00Z",
+    "generation": 10163
+  },
+  {
+    "targetTime": "2024-01-08T13:00:00Z",
+    "generation": 10469
+  },
+  {
+    "targetTime": "2024-01-08T13:30:00Z",
+    "generation": 10499
+  },
+  {
+    "targetTime": "2024-01-08T14:00:00Z",
+    "generation": 10377
+  },
+  {
+    "targetTime": "2024-01-08T14:30:00Z",
+    "generation": 10226
+  },
+  {
+    "targetTime": "2024-01-08T15:00:00Z",
+    "generation": 10317
+  },
+  {
+    "targetTime": "2024-01-08T15:30:00Z",
+    "generation": 10616
+  },
+  {
+    "targetTime": "2024-01-08T16:00:00Z",
+    "generation": 10769
+  },
+  {
+    "targetTime": "2024-01-08T16:30:00Z",
+    "generation": 10783
+  },
+  {
+    "targetTime": "2024-01-08T17:00:00Z",
+    "generation": 10919
+  },
+  {
+    "targetTime": "2024-01-08T17:30:00Z",
+    "generation": 11535
+  },
+  {
+    "targetTime": "2024-01-08T18:00:00Z",
+    "generation": 11362
+  },
+  {
+    "targetTime": "2024-01-08T18:30:00Z",
+    "generation": 11439
+  },
+  {
+    "targetTime": "2024-01-08T19:00:00Z",
+    "generation": 11412
+  },
+  {
+    "targetTime": "2024-01-08T19:30:00Z",
+    "generation": 11371
+  },
+  {
+    "targetTime": "2024-01-08T20:00:00Z",
+    "generation": 11536
+  },
+  {
+    "targetTime": "2024-01-08T20:30:00Z",
+    "generation": 11592
+  },
+  {
+    "targetTime": "2024-01-08T21:00:00Z",
+    "generation": 11660
+  },
+  {
+    "targetTime": "2024-01-08T21:30:00Z",
+    "generation": 11738
+  },
+  {
+    "targetTime": "2024-01-08T22:00:00Z",
+    "generation": 11616
+  },
+  {
+    "targetTime": "2024-01-08T22:30:00Z",
+    "generation": 11782
+  },
+  {
+    "targetTime": "2024-01-08T23:00:00Z",
+    "generation": 11895
+  },
+  {
+    "targetTime": "2024-01-08T23:30:00Z",
+    "generation": 11909
+  },
+  {
+    "targetTime": "2024-01-09T00:00:00Z",
+    "generation": 11819
+  },
+  {
+    "targetTime": "2024-01-09T00:30:00Z",
+    "generation": 11652
+  },
+  {
+    "targetTime": "2024-01-09T01:00:00Z",
+    "generation": 11440
+  },
+  {
+    "targetTime": "2024-01-09T01:30:00Z",
+    "generation": 11277
+  },
+  {
+    "targetTime": "2024-01-09T02:00:00Z",
+    "generation": 11298
+  },
+  {
+    "targetTime": "2024-01-09T02:30:00Z",
+    "generation": 11381
+  },
+  {
+    "targetTime": "2024-01-09T03:00:00Z",
+    "generation": 11356
+  },
+  {
+    "targetTime": "2024-01-09T03:30:00Z",
+    "generation": 11480
+  },
+  {
+    "targetTime": "2024-01-09T04:00:00Z",
+    "generation": 11574
+  },
+  {
+    "targetTime": "2024-01-09T04:30:00Z",
+    "generation": 11558
+  },
+  {
+    "targetTime": "2024-01-09T05:00:00Z",
+    "generation": 11483
+  },
+  {
+    "targetTime": "2024-01-09T05:30:00Z",
+    "generation": 11558
+  },
+  {
+    "targetTime": "2024-01-09T06:00:00Z",
+    "generation": 11659
+  },
+  {
+    "targetTime": "2024-01-09T06:30:00Z",
+    "generation": 11944
+  },
+  {
+    "targetTime": "2024-01-09T07:00:00Z",
+    "generation": 12192
+  },
+  {
+    "targetTime": "2024-01-09T07:30:00Z",
+    "generation": 12320
+  },
+  {
+    "targetTime": "2024-01-09T08:00:00Z",
+    "generation": 12298
+  },
+  {
+    "targetTime": "2024-01-09T08:30:00Z",
+    "generation": 12385
+  },
+  {
+    "targetTime": "2024-01-09T09:00:00Z",
+    "generation": 12411
+  },
+  {
+    "targetTime": "2024-01-09T09:30:00Z",
+    "generation": 12380
+  },
+  {
+    "targetTime": "2024-01-09T10:00:00Z",
+    "generation": 12481
+  },
+  {
+    "targetTime": "2024-01-09T10:30:00Z",
+    "generation": 12374
+  },
+  {
+    "targetTime": "2024-01-09T11:00:00Z",
+    "generation": 12275
+  },
+  {
+    "targetTime": "2024-01-09T11:30:00Z",
+    "generation": 12042
+  },
+  {
+    "targetTime": "2024-01-09T12:00:00Z",
+    "generation": 11866
+  },
+  {
+    "targetTime": "2024-01-09T12:30:00Z",
+    "generation": 11886
+  },
+  {
+    "targetTime": "2024-01-09T13:00:00Z",
+    "generation": 11806
+  },
+  {
+    "targetTime": "2024-01-09T13:30:00Z",
+    "generation": 11550
+  },
+  {
+    "targetTime": "2024-01-09T14:00:00Z",
+    "generation": 11493
+  },
+  {
+    "targetTime": "2024-01-09T14:30:00Z",
+    "generation": 11161
+  },
+  {
+    "targetTime": "2024-01-09T15:00:00Z",
+    "generation": 10939
+  },
+  {
+    "targetTime": "2024-01-09T15:30:00Z",
+    "generation": 11024
+  },
+  {
+    "targetTime": "2024-01-09T16:00:00Z",
+    "generation": 11052
+  },
+  {
+    "targetTime": "2024-01-09T16:30:00Z",
+    "generation": 11000
+  },
+  {
+    "targetTime": "2024-01-09T17:00:00Z",
+    "generation": 11135
+  },
+  {
+    "targetTime": "2024-01-09T17:30:00Z",
+    "generation": 11313
+  },
+  {
+    "targetTime": "2024-01-09T18:00:00Z",
+    "generation": 11240
+  },
+  {
+    "targetTime": "2024-01-09T18:30:00Z",
+    "generation": 11395
+  },
+  {
+    "targetTime": "2024-01-09T19:00:00Z",
+    "generation": 11476
+  },
+  {
+    "targetTime": "2024-01-09T19:30:00Z",
+    "generation": 11504
+  },
+  {
+    "targetTime": "2024-01-09T20:00:00Z",
+    "generation": 11428
+  },
+  {
+    "targetTime": "2024-01-09T20:30:00Z",
+    "generation": 11228
+  },
+  {
+    "targetTime": "2024-01-09T21:00:00Z",
+    "generation": 11128
+  },
+  {
+    "targetTime": "2024-01-09T21:30:00Z",
+    "generation": 10915
+  },
+  {
+    "targetTime": "2024-01-09T22:00:00Z",
+    "generation": 11005
+  },
+  {
+    "targetTime": "2024-01-09T22:30:00Z",
+    "generation": 10866
+  },
+  {
+    "targetTime": "2024-01-09T23:00:00Z",
+    "generation": 10685
+  },
+  {
+    "targetTime": "2024-01-09T23:30:00Z",
+    "generation": 10364
+  },
+  {
+    "targetTime": "2024-01-10T00:00:00Z",
+    "generation": 10003
+  },
+  {
+    "targetTime": "2024-01-10T00:30:00Z",
+    "generation": 9663
+  },
+  {
+    "targetTime": "2024-01-10T01:00:00Z",
+    "generation": 9662
+  },
+  {
+    "targetTime": "2024-01-10T01:30:00Z",
+    "generation": 9498
+  },
+  {
+    "targetTime": "2024-01-10T02:00:00Z",
+    "generation": 8765
+  },
+  {
+    "targetTime": "2024-01-10T02:30:00Z",
+    "generation": 8269
+  },
+  {
+    "targetTime": "2024-01-10T03:00:00Z",
+    "generation": 7933
+  },
+  {
+    "targetTime": "2024-01-10T03:30:00Z",
+    "generation": 7910
+  },
+  {
+    "targetTime": "2024-01-10T04:00:00Z",
+    "generation": 7728
+  },
+  {
+    "targetTime": "2024-01-10T04:30:00Z",
+    "generation": 7581
+  },
+  {
+    "targetTime": "2024-01-10T05:00:00Z",
+    "generation": 7538
+  },
+  {
+    "targetTime": "2024-01-10T05:30:00Z",
+    "generation": 7423
+  },
+  {
+    "targetTime": "2024-01-10T06:00:00Z",
+    "generation": 7277
+  },
+  {
+    "targetTime": "2024-01-10T06:30:00Z",
+    "generation": 7070
+  },
+  {
+    "targetTime": "2024-01-10T07:00:00Z",
+    "generation": 6908
+  },
+  {
+    "targetTime": "2024-01-10T07:30:00Z",
+    "generation": 6740
+  },
+  {
+    "targetTime": "2024-01-10T08:00:00Z",
+    "generation": 6625
+  },
+  {
+    "targetTime": "2024-01-10T08:30:00Z",
+    "generation": 6547
+  },
+  {
+    "targetTime": "2024-01-10T09:00:00Z",
+    "generation": 6420
+  },
+  {
+    "targetTime": "2024-01-10T09:30:00Z",
+    "generation": 6497
+  },
+  {
+    "targetTime": "2024-01-10T10:00:00Z",
+    "generation": 6564
+  },
+  {
+    "targetTime": "2024-01-10T10:30:00Z",
+    "generation": 6734
+  },
+  {
+    "targetTime": "2024-01-10T11:00:00Z",
+    "generation": 6752
+  },
+  {
+    "targetTime": "2024-01-10T11:30:00Z",
+    "generation": 6771
+  },
+  {
+    "targetTime": "2024-01-10T12:00:00Z",
+    "generation": 6774
+  },
+  {
+    "targetTime": "2024-01-10T12:30:00Z",
+    "generation": 6969
+  },
+  {
+    "targetTime": "2024-01-10T13:00:00Z",
+    "generation": 7172
+  },
+  {
+    "targetTime": "2024-01-10T13:30:00Z",
+    "generation": 7338
+  },
+  {
+    "targetTime": "2024-01-10T14:00:00Z",
+    "generation": 7684
+  },
+  {
+    "targetTime": "2024-01-10T14:30:00Z",
+    "generation": 7899
+  },
+  {
+    "targetTime": "2024-01-10T15:00:00Z",
+    "generation": 8027
+  },
+  {
+    "targetTime": "2024-01-10T15:30:00Z",
+    "generation": 8042
+  },
+  {
+    "targetTime": "2024-01-10T16:00:00Z",
+    "generation": 6983
+  },
+  {
+    "targetTime": "2024-01-10T16:30:00Z",
+    "generation": 8777
+  },
+  {
+    "targetTime": "2024-01-10T17:00:00Z",
+    "generation": 8970
+  },
+  {
+    "targetTime": "2024-01-10T17:30:00Z",
+    "generation": 9026
+  },
+  {
+    "targetTime": "2024-01-10T18:00:00Z",
+    "generation": 8944
+  },
+  {
+    "targetTime": "2024-01-10T18:30:00Z",
+    "generation": 8926
+  },
+  {
+    "targetTime": "2024-01-10T19:00:00Z",
+    "generation": 8831
+  },
+  {
+    "targetTime": "2024-01-10T19:30:00Z",
+    "generation": 8987
+  },
+  {
+    "targetTime": "2024-01-10T20:00:00Z",
+    "generation": 8785
+  },
+  {
+    "targetTime": "2024-01-10T20:30:00Z",
+    "generation": 8520
+  },
+  {
+    "targetTime": "2024-01-10T21:00:00Z",
+    "generation": 8234
+  },
+  {
+    "targetTime": "2024-01-10T21:30:00Z",
+    "generation": 7743
+  },
+  {
+    "targetTime": "2024-01-10T22:00:00Z",
+    "generation": 6978
+  },
+  {
+    "targetTime": "2024-01-10T22:30:00Z",
+    "generation": 6800
+  },
+  {
+    "targetTime": "2024-01-10T23:00:00Z",
+    "generation": 6690
+  },
+  {
+    "targetTime": "2024-01-10T23:30:00Z",
+    "generation": 6737
+  },
+  {
+    "targetTime": "2024-01-11T00:00:00Z",
+    "generation": 6538
+  },
+  {
+    "targetTime": "2024-01-11T00:30:00Z",
+    "generation": 6372
+  },
+  {
+    "targetTime": "2024-01-11T01:00:00Z",
+    "generation": 6143
+  },
+  {
+    "targetTime": "2024-01-11T01:30:00Z",
+    "generation": 5994
+  },
+  {
+    "targetTime": "2024-01-11T02:00:00Z",
+    "generation": 5824
+  },
+  {
+    "targetTime": "2024-01-11T02:30:00Z",
+    "generation": 5568
+  },
+  {
+    "targetTime": "2024-01-11T03:00:00Z",
+    "generation": 5469
+  },
+  {
+    "targetTime": "2024-01-11T03:30:00Z",
+    "generation": 5521
+  },
+  {
+    "targetTime": "2024-01-11T04:00:00Z",
+    "generation": 5671
+  },
+  {
+    "targetTime": "2024-01-11T04:30:00Z",
+    "generation": 5683
+  },
+  {
+    "targetTime": "2024-01-11T05:00:00Z",
+    "generation": 5605
+  },
+  {
+    "targetTime": "2024-01-11T05:30:00Z",
+    "generation": 6155
+  },
+  {
+    "targetTime": "2024-01-11T06:00:00Z",
+    "generation": 6036
+  },
+  {
+    "targetTime": "2024-01-11T06:30:00Z",
+    "generation": 5722
+  },
+  {
+    "targetTime": "2024-01-11T07:00:00Z",
+    "generation": 5536
+  },
+  {
+    "targetTime": "2024-01-11T07:30:00Z",
+    "generation": 5279
+  },
+  {
+    "targetTime": "2024-01-11T08:00:00Z",
+    "generation": 5389
+  },
+  {
+    "targetTime": "2024-01-11T08:30:00Z",
+    "generation": 5459
+  },
+  {
+    "targetTime": "2024-01-11T09:00:00Z",
+    "generation": 5450
+  },
+  {
+    "targetTime": "2024-01-11T09:30:00Z",
+    "generation": 5583
+  },
+  {
+    "targetTime": "2024-01-11T10:00:00Z",
+    "generation": 5824
+  },
+  {
+    "targetTime": "2024-01-11T10:30:00Z",
+    "generation": 5858
+  },
+  {
+    "targetTime": "2024-01-11T11:00:00Z",
+    "generation": 6061
+  },
+  {
+    "targetTime": "2024-01-11T11:30:00Z",
+    "generation": 6251
+  },
+  {
+    "targetTime": "2024-01-11T12:00:00Z",
+    "generation": 6457
+  },
+  {
+    "targetTime": "2024-01-11T12:30:00Z",
+    "generation": 6829
+  },
+  {
+    "targetTime": "2024-01-11T13:00:00Z",
+    "generation": 7088
+  },
+  {
+    "targetTime": "2024-01-11T13:30:00Z",
+    "generation": 7224
+  },
+  {
+    "targetTime": "2024-01-11T14:00:00Z",
+    "generation": 7308
+  },
+  {
+    "targetTime": "2024-01-11T14:30:00Z",
+    "generation": 7559
+  },
+  {
+    "targetTime": "2024-01-11T15:00:00Z",
+    "generation": 7604
+  },
+  {
+    "targetTime": "2024-01-11T15:30:00Z",
+    "generation": 7787
+  },
+  {
+    "targetTime": "2024-01-11T16:00:00Z",
+    "generation": 7549
+  },
+  {
+    "targetTime": "2024-01-11T16:30:00Z",
+    "generation": 7418
+  },
+  {
+    "targetTime": "2024-01-11T17:00:00Z",
+    "generation": 7151
+  },
+  {
+    "targetTime": "2024-01-11T17:30:00Z",
+    "generation": 7185
+  },
+  {
+    "targetTime": "2024-01-11T18:00:00Z",
+    "generation": 7094
+  },
+  {
+    "targetTime": "2024-01-11T18:30:00Z",
+    "generation": 6934
+  },
+  {
+    "targetTime": "2024-01-11T19:00:00Z",
+    "generation": 6770
+  },
+  {
+    "targetTime": "2024-01-11T19:30:00Z",
+    "generation": 6551
+  },
+  {
+    "targetTime": "2024-01-11T20:00:00Z",
+    "generation": 6414
+  },
+  {
+    "targetTime": "2024-01-11T20:30:00Z",
+    "generation": 6354
+  },
+  {
+    "targetTime": "2024-01-11T21:00:00Z",
+    "generation": 6324
+  },
+  {
+    "targetTime": "2024-01-11T21:30:00Z",
+    "generation": 6218
+  },
+  {
+    "targetTime": "2024-01-11T22:00:00Z",
+    "generation": 6167
+  },
+  {
+    "targetTime": "2024-01-11T22:30:00Z",
+    "generation": 6057
+  },
+  {
+    "targetTime": "2024-01-11T23:00:00Z",
+    "generation": 5853
+  },
+  {
+    "targetTime": "2024-01-11T23:30:00Z",
+    "generation": 5871
+  },
+  {
+    "targetTime": "2024-01-12T00:00:00Z",
+    "generation": 5886
+  },
+  {
+    "targetTime": "2024-01-12T00:30:00Z",
+    "generation": 5867
+  },
+  {
+    "targetTime": "2024-01-12T01:00:00Z",
+    "generation": 6018
+  },
+  {
+    "targetTime": "2024-01-12T01:30:00Z",
+    "generation": 6355
+  },
+  {
+    "targetTime": "2024-01-12T02:00:00Z",
+    "generation": 6108
+  },
+  {
+    "targetTime": "2024-01-12T02:30:00Z",
+    "generation": 5827
+  },
+  {
+    "targetTime": "2024-01-12T03:00:00Z",
+    "generation": 5292
+  },
+  {
+    "targetTime": "2024-01-12T03:30:00Z",
+    "generation": 5220
+  },
+  {
+    "targetTime": "2024-01-12T04:00:00Z",
+    "generation": 4824
+  },
+  {
+    "targetTime": "2024-01-12T04:30:00Z",
+    "generation": 4783
+  },
+  {
+    "targetTime": "2024-01-12T05:00:00Z",
+    "generation": 4848
+  },
+  {
+    "targetTime": "2024-01-12T05:30:00Z",
+    "generation": 4800
+  },
+  {
+    "targetTime": "2024-01-12T06:00:00Z",
+    "generation": 4510
+  },
+  {
+    "targetTime": "2024-01-12T06:30:00Z",
+    "generation": 4443
+  },
+  {
+    "targetTime": "2024-01-12T07:00:00Z",
+    "generation": 4312
+  },
+  {
+    "targetTime": "2024-01-12T07:30:00Z",
+    "generation": 4039
+  },
+  {
+    "targetTime": "2024-01-12T08:00:00Z",
+    "generation": 3879
+  },
+  {
+    "targetTime": "2024-01-12T08:30:00Z",
+    "generation": 3675
+  },
+  {
+    "targetTime": "2024-01-12T09:00:00Z",
+    "generation": 3499
+  },
+  {
+    "targetTime": "2024-01-12T09:30:00Z",
+    "generation": 3307
+  },
+  {
+    "targetTime": "2024-01-12T10:00:00Z",
+    "generation": 3335
+  },
+  {
+    "targetTime": "2024-01-12T10:30:00Z",
+    "generation": 3202
+  },
+  {
+    "targetTime": "2024-01-12T11:00:00Z",
+    "generation": 3201
+  },
+  {
+    "targetTime": "2024-01-12T11:30:00Z",
+    "generation": 3278
+  },
+  {
+    "targetTime": "2024-01-12T12:00:00Z",
+    "generation": 3318
+  },
+  {
+    "targetTime": "2024-01-12T12:30:00Z",
+    "generation": 3320
+  },
+  {
+    "targetTime": "2024-01-12T13:00:00Z",
+    "generation": 3321
+  },
+  {
+    "targetTime": "2024-01-12T13:30:00Z",
+    "generation": 3509
+  },
+  {
+    "targetTime": "2024-01-12T14:00:00Z",
+    "generation": 3690
+  },
+  {
+    "targetTime": "2024-01-12T14:30:00Z",
+    "generation": 3862
+  },
+  {
+    "targetTime": "2024-01-12T15:00:00Z",
+    "generation": 4220
+  },
+  {
+    "targetTime": "2024-01-12T15:30:00Z",
+    "generation": 4438
+  },
+  {
+    "targetTime": "2024-01-12T16:00:00Z",
+    "generation": 4527
+  },
+  {
+    "targetTime": "2024-01-12T16:30:00Z",
+    "generation": 4514
+  },
+  {
+    "targetTime": "2024-01-12T17:00:00Z",
+    "generation": 4405
+  },
+  {
+    "targetTime": "2024-01-12T17:30:00Z",
+    "generation": 4641
+  },
+  {
+    "targetTime": "2024-01-12T18:00:00Z",
+    "generation": 4639
+  },
+  {
+    "targetTime": "2024-01-12T18:30:00Z",
+    "generation": 4654
+  },
+  {
+    "targetTime": "2024-01-12T19:00:00Z",
+    "generation": 4837
+  },
+  {
+    "targetTime": "2024-01-12T19:30:00Z",
+    "generation": 4946
+  },
+  {
+    "targetTime": "2024-01-12T20:00:00Z",
+    "generation": 5083
+  },
+  {
+    "targetTime": "2024-01-12T20:30:00Z",
+    "generation": 5256
+  },
+  {
+    "targetTime": "2024-01-12T21:00:00Z",
+    "generation": 5486
+  },
+  {
+    "targetTime": "2024-01-12T21:30:00Z",
+    "generation": 5685
+  },
+  {
+    "targetTime": "2024-01-12T22:00:00Z",
+    "generation": 5842
+  },
+  {
+    "targetTime": "2024-01-12T22:30:00Z",
+    "generation": 6017
+  },
+  {
+    "targetTime": "2024-01-12T23:00:00Z",
+    "generation": 6359
+  },
+  {
+    "targetTime": "2024-01-12T23:30:00Z",
+    "generation": 6250
+  },
+  {
+    "targetTime": "2024-01-13T00:00:00Z",
+    "generation": 6319
+  },
+  {
+    "targetTime": "2024-01-13T00:30:00Z",
+    "generation": 6644
+  },
+  {
+    "targetTime": "2024-01-13T01:00:00Z",
+    "generation": 6801
+  },
+  {
+    "targetTime": "2024-01-13T01:30:00Z",
+    "generation": 6993
+  },
+  {
+    "targetTime": "2024-01-13T02:00:00Z",
+    "generation": 7297
+  },
+  {
+    "targetTime": "2024-01-13T02:30:00Z",
+    "generation": 7132
+  },
+  {
+    "targetTime": "2024-01-13T03:00:00Z",
+    "generation": 7695
+  },
+  {
+    "targetTime": "2024-01-13T03:30:00Z",
+    "generation": 8002
+  },
+  {
+    "targetTime": "2024-01-13T04:00:00Z",
+    "generation": 8191
+  },
+  {
+    "targetTime": "2024-01-13T04:30:00Z",
+    "generation": 7774
+  },
+  {
+    "targetTime": "2024-01-13T05:00:00Z",
+    "generation": 7678
+  },
+  {
+    "targetTime": "2024-01-13T05:30:00Z",
+    "generation": 7498
+  },
+  {
+    "targetTime": "2024-01-13T06:00:00Z",
+    "generation": 7446
+  },
+  {
+    "targetTime": "2024-01-13T06:30:00Z",
+    "generation": 7622
+  },
+  {
+    "targetTime": "2024-01-13T07:00:00Z",
+    "generation": 7765
+  },
+  {
+    "targetTime": "2024-01-13T07:30:00Z",
+    "generation": 7841
+  },
+  {
+    "targetTime": "2024-01-13T08:00:00Z",
+    "generation": 7975
+  },
+  {
+    "targetTime": "2024-01-13T08:30:00Z",
+    "generation": 7749
+  },
+  {
+    "targetTime": "2024-01-13T09:00:00Z",
+    "generation": 7662
+  },
+  {
+    "targetTime": "2024-01-13T09:30:00Z",
+    "generation": 7493
+  },
+  {
+    "targetTime": "2024-01-13T10:00:00Z",
+    "generation": 7384
+  },
+  {
+    "targetTime": "2024-01-13T10:30:00Z",
+    "generation": 7190
+  },
+  {
+    "targetTime": "2024-01-13T11:00:00Z",
+    "generation": 7093
+  },
+  {
+    "targetTime": "2024-01-13T11:30:00Z",
+    "generation": 6901
+  },
+  {
+    "targetTime": "2024-01-13T12:00:00Z",
+    "generation": 6834
+  },
+  {
+    "targetTime": "2024-01-13T12:30:00Z",
+    "generation": 6663
+  },
+  {
+    "targetTime": "2024-01-13T13:00:00Z",
+    "generation": 6733
+  },
+  {
+    "targetTime": "2024-01-13T13:30:00Z",
+    "generation": 7017
+  },
+  {
+    "targetTime": "2024-01-13T14:00:00Z",
+    "generation": 7450
+  },
+  {
+    "targetTime": "2024-01-13T14:30:00Z",
+    "generation": 7282
+  },
+  {
+    "targetTime": "2024-01-13T15:00:00Z",
+    "generation": 7003
+  },
+  {
+    "targetTime": "2024-01-13T15:30:00Z",
+    "generation": 6950
+  },
+  {
+    "targetTime": "2024-01-13T16:00:00Z",
+    "generation": 6768
+  },
+  {
+    "targetTime": "2024-01-13T16:30:00Z",
+    "generation": 6834
+  },
+  {
+    "targetTime": "2024-01-13T17:00:00Z",
+    "generation": 6416
+  },
+  {
+    "targetTime": "2024-01-13T17:30:00Z",
+    "generation": 6418
+  },
+  {
+    "targetTime": "2024-01-13T18:00:00Z",
+    "generation": 6446
+  },
+  {
+    "targetTime": "2024-01-13T18:30:00Z",
+    "generation": 6499
+  },
+  {
+    "targetTime": "2024-01-13T19:00:00Z",
+    "generation": 6755
+  },
+  {
+    "targetTime": "2024-01-13T19:30:00Z",
+    "generation": 6763
+  },
+  {
+    "targetTime": "2024-01-13T20:00:00Z",
+    "generation": 6706
+  },
+  {
+    "targetTime": "2024-01-13T20:30:00Z",
+    "generation": 6901
+  },
+  {
+    "targetTime": "2024-01-13T21:00:00Z",
+    "generation": 7009
+  },
+  {
+    "targetTime": "2024-01-13T21:30:00Z",
+    "generation": 6897
+  },
+  {
+    "targetTime": "2024-01-13T22:00:00Z",
+    "generation": 6926
+  },
+  {
+    "targetTime": "2024-01-13T22:30:00Z",
+    "generation": 6531
+  },
+  {
+    "targetTime": "2024-01-13T23:00:00Z",
+    "generation": 6264
+  },
+  {
+    "targetTime": "2024-01-13T23:30:00Z",
+    "generation": 5986
+  },
+  {
+    "targetTime": "2024-01-14T00:00:00Z",
+    "generation": 5873
+  },
+  {
+    "targetTime": "2024-01-14T00:30:00Z",
+    "generation": 6160
+  },
+  {
+    "targetTime": "2024-01-14T01:00:00Z",
+    "generation": 6058
+  },
+  {
+    "targetTime": "2024-01-14T01:30:00Z",
+    "generation": 6093
+  },
+  {
+    "targetTime": "2024-01-14T02:00:00Z",
+    "generation": 5737
+  },
+  {
+    "targetTime": "2024-01-14T02:30:00Z",
+    "generation": 5526
+  },
+  {
+    "targetTime": "2024-01-14T03:00:00Z",
+    "generation": 5596
+  },
+  {
+    "targetTime": "2024-01-14T03:30:00Z",
+    "generation": 5538
+  },
+  {
+    "targetTime": "2024-01-14T04:00:00Z",
+    "generation": 5477
+  },
+  {
+    "targetTime": "2024-01-14T04:30:00Z",
+    "generation": 5367
+  },
+  {
+    "targetTime": "2024-01-14T05:00:00Z",
+    "generation": 5288
+  },
+  {
+    "targetTime": "2024-01-14T05:30:00Z",
+    "generation": 5487
+  },
+  {
+    "targetTime": "2024-01-14T06:00:00Z",
+    "generation": 5862
+  },
+  {
+    "targetTime": "2024-01-14T06:30:00Z",
+    "generation": 6248
+  },
+  {
+    "targetTime": "2024-01-14T07:00:00Z",
+    "generation": 6461
+  },
+  {
+    "targetTime": "2024-01-14T07:30:00Z",
+    "generation": 6759
+  },
+  {
+    "targetTime": "2024-01-14T08:00:00Z",
+    "generation": 7130
+  },
+  {
+    "targetTime": "2024-01-14T08:30:00Z",
+    "generation": 8172
+  },
+  {
+    "targetTime": "2024-01-14T09:00:00Z",
+    "generation": 8614
+  },
+  {
+    "targetTime": "2024-01-14T09:30:00Z",
+    "generation": 9045
+  },
+  {
+    "targetTime": "2024-01-14T10:00:00Z",
+    "generation": 9487
+  },
+  {
+    "targetTime": "2024-01-14T10:30:00Z",
+    "generation": 9699
+  },
+  {
+    "targetTime": "2024-01-14T11:00:00Z",
+    "generation": 9952
+  },
+  {
+    "targetTime": "2024-01-14T11:30:00Z",
+    "generation": 10278
+  },
+  {
+    "targetTime": "2024-01-14T12:00:00Z",
+    "generation": 10051
+  },
+  {
+    "targetTime": "2024-01-14T12:30:00Z",
+    "generation": 10150
+  },
+  {
+    "targetTime": "2024-01-14T13:00:00Z",
+    "generation": 10400
+  },
+  {
+    "targetTime": "2024-01-14T13:30:00Z",
+    "generation": 10769
+  },
+  {
+    "targetTime": "2024-01-14T14:00:00Z",
+    "generation": 11368
+  },
+  {
+    "targetTime": "2024-01-14T14:30:00Z",
+    "generation": 11902
+  },
+  {
+    "targetTime": "2024-01-14T15:00:00Z",
+    "generation": 12175
+  },
+  {
+    "targetTime": "2024-01-14T15:30:00Z",
+    "generation": 12372
+  },
+  {
+    "targetTime": "2024-01-14T16:00:00Z",
+    "generation": 12559
+  },
+  {
+    "targetTime": "2024-01-14T16:30:00Z",
+    "generation": 12247
+  },
+  {
+    "targetTime": "2024-01-14T17:00:00Z",
+    "generation": 12347
+  },
+  {
+    "targetTime": "2024-01-14T17:30:00Z",
+    "generation": 12505
+  },
+  {
+    "targetTime": "2024-01-14T18:00:00Z",
+    "generation": 12424
+  },
+  {
+    "targetTime": "2024-01-14T18:30:00Z",
+    "generation": 12316
+  },
+  {
+    "targetTime": "2024-01-14T19:00:00Z",
+    "generation": 12364
+  },
+  {
+    "targetTime": "2024-01-14T19:30:00Z",
+    "generation": 12398
+  },
+  {
+    "targetTime": "2024-01-14T20:00:00Z",
+    "generation": 12757
+  },
+  {
+    "targetTime": "2024-01-14T20:30:00Z",
+    "generation": 12721
+  },
+  {
+    "targetTime": "2024-01-14T21:00:00Z",
+    "generation": 13213
+  },
+  {
+    "targetTime": "2024-01-14T21:30:00Z",
+    "generation": 13730
+  },
+  {
+    "targetTime": "2024-01-14T22:00:00Z",
+    "generation": 13731
+  },
+  {
+    "targetTime": "2024-01-14T22:30:00Z",
+    "generation": 13557
+  },
+  {
+    "targetTime": "2024-01-14T23:00:00Z",
+    "generation": 13352
+  },
+  {
+    "targetTime": "2024-01-14T23:30:00Z",
+    "generation": 13539
+  },
+  {
+    "targetTime": "2024-01-15T00:00:00Z",
+    "generation": 13826
+  },
+  {
+    "targetTime": "2024-01-15T00:30:00Z",
+    "generation": 13991
+  },
+  {
+    "targetTime": "2024-01-15T01:00:00Z",
+    "generation": 14343
+  },
+  {
+    "targetTime": "2024-01-15T01:30:00Z",
+    "generation": 14482
+  },
+  {
+    "targetTime": "2024-01-15T02:00:00Z",
+    "generation": 14431
+  },
+  {
+    "targetTime": "2024-01-15T02:30:00Z",
+    "generation": 14426
+  },
+  {
+    "targetTime": "2024-01-15T03:00:00Z",
+    "generation": 14534
+  },
+  {
+    "targetTime": "2024-01-15T03:30:00Z",
+    "generation": 14706
+  },
+  {
+    "targetTime": "2024-01-15T04:00:00Z",
+    "generation": 14840
+  },
+  {
+    "targetTime": "2024-01-15T04:30:00Z",
+    "generation": 14933
+  },
+  {
+    "targetTime": "2024-01-15T05:00:00Z",
+    "generation": 15001
+  },
+  {
+    "targetTime": "2024-01-15T05:30:00Z",
+    "generation": 15070
+  },
+  {
+    "targetTime": "2024-01-15T06:00:00Z",
+    "generation": 15022
+  },
+  {
+    "targetTime": "2024-01-15T06:30:00Z",
+    "generation": 14830
+  },
+  {
+    "targetTime": "2024-01-15T07:00:00Z",
+    "generation": 14963
+  },
+  {
+    "targetTime": "2024-01-15T07:30:00Z",
+    "generation": 14855
+  },
+  {
+    "targetTime": "2024-01-15T08:00:00Z",
+    "generation": 14492
+  },
+  {
+    "targetTime": "2024-01-15T08:30:00Z",
+    "generation": 14264
+  },
+  {
+    "targetTime": "2024-01-15T09:00:00Z",
+    "generation": 14233
+  },
+  {
+    "targetTime": "2024-01-15T09:30:00Z",
+    "generation": 14149
+  },
+  {
+    "targetTime": "2024-01-15T10:00:00Z",
+    "generation": 14315
+  },
+  {
+    "targetTime": "2024-01-15T10:30:00Z",
+    "generation": 14149
+  },
+  {
+    "targetTime": "2024-01-15T11:00:00Z",
+    "generation": 13835
+  },
+  {
+    "targetTime": "2024-01-15T11:30:00Z",
+    "generation": 13709
+  },
+  {
+    "targetTime": "2024-01-15T12:00:00Z",
+    "generation": 13529
+  },
+  {
+    "targetTime": "2024-01-15T12:30:00Z",
+    "generation": 13614
+  },
+  {
+    "targetTime": "2024-01-15T13:00:00Z",
+    "generation": 13859
+  },
+  {
+    "targetTime": "2024-01-15T13:30:00Z",
+    "generation": 13948
+  },
+  {
+    "targetTime": "2024-01-15T14:00:00Z",
+    "generation": 13810
+  },
+  {
+    "targetTime": "2024-01-15T14:30:00Z",
+    "generation": 13770
+  },
+  {
+    "targetTime": "2024-01-15T15:00:00Z",
+    "generation": 13547
+  },
+  {
+    "targetTime": "2024-01-15T15:30:00Z",
+    "generation": 13411
+  },
+  {
+    "targetTime": "2024-01-15T16:00:00Z",
+    "generation": 12939
+  },
+  {
+    "targetTime": "2024-01-15T16:30:00Z",
+    "generation": 12747
+  },
+  {
+    "targetTime": "2024-01-15T17:00:00Z",
+    "generation": 12466
+  },
+  {
+    "targetTime": "2024-01-15T17:30:00Z",
+    "generation": 12140
+  },
+  {
+    "targetTime": "2024-01-15T18:00:00Z",
+    "generation": 11775
+  },
+  {
+    "targetTime": "2024-01-15T18:30:00Z",
+    "generation": 11448
+  },
+  {
+    "targetTime": "2024-01-15T19:00:00Z",
+    "generation": 10834
+  },
+  {
+    "targetTime": "2024-01-15T19:30:00Z",
+    "generation": 10449
+  },
+  {
+    "targetTime": "2024-01-15T20:00:00Z",
+    "generation": 10046
+  },
+  {
+    "targetTime": "2024-01-15T20:30:00Z",
+    "generation": 9952
+  },
+  {
+    "targetTime": "2024-01-15T21:00:00Z",
+    "generation": 9569
+  },
+  {
+    "targetTime": "2024-01-15T21:30:00Z",
+    "generation": 9174
+  },
+  {
+    "targetTime": "2024-01-15T22:00:00Z",
+    "generation": 8995
+  },
+  {
+    "targetTime": "2024-01-15T22:30:00Z",
+    "generation": 8472
+  },
+  {
+    "targetTime": "2024-01-15T23:00:00Z",
+    "generation": 8022
+  },
+  {
+    "targetTime": "2024-01-15T23:30:00Z",
+    "generation": 8095
+  },
+  {
+    "targetTime": "2024-01-16T00:00:00Z",
+    "generation": 7892
+  },
+  {
+    "targetTime": "2024-01-16T00:30:00Z",
+    "generation": 7692
+  },
+  {
+    "targetTime": "2024-01-16T01:00:00Z",
+    "generation": 7270
+  },
+  {
+    "targetTime": "2024-01-16T01:30:00Z",
+    "generation": 6954
+  },
+  {
+    "targetTime": "2024-01-16T02:00:00Z",
+    "generation": 6228
+  },
+  {
+    "targetTime": "2024-01-16T02:30:00Z",
+    "generation": 5806
+  },
+  {
+    "targetTime": "2024-01-16T03:00:00Z",
+    "generation": 5814
+  },
+  {
+    "targetTime": "2024-01-16T03:30:00Z",
+    "generation": 6035
+  },
+  {
+    "targetTime": "2024-01-16T04:00:00Z",
+    "generation": 5985
+  },
+  {
+    "targetTime": "2024-01-16T04:30:00Z",
+    "generation": 6136
+  },
+  {
+    "targetTime": "2024-01-16T05:00:00Z",
+    "generation": 6396
+  },
+  {
+    "targetTime": "2024-01-16T05:30:00Z",
+    "generation": 6833
+  },
+  {
+    "targetTime": "2024-01-16T06:00:00Z",
+    "generation": 7111
+  },
+  {
+    "targetTime": "2024-01-16T06:30:00Z",
+    "generation": 7196
+  },
+  {
+    "targetTime": "2024-01-16T07:00:00Z",
+    "generation": 7343
+  },
+  {
+    "targetTime": "2024-01-16T07:30:00Z",
+    "generation": 7266
+  },
+  {
+    "targetTime": "2024-01-16T08:00:00Z",
+    "generation": 7387
+  },
+  {
+    "targetTime": "2024-01-16T08:30:00Z",
+    "generation": 7590
+  },
+  {
+    "targetTime": "2024-01-16T09:00:00Z",
+    "generation": 7756
+  },
+  {
+    "targetTime": "2024-01-16T09:30:00Z",
+    "generation": 7674
+  },
+  {
+    "targetTime": "2024-01-16T10:00:00Z",
+    "generation": 7412
+  },
+  {
+    "targetTime": "2024-01-16T10:30:00Z",
+    "generation": 7345
+  },
+  {
+    "targetTime": "2024-01-16T11:00:00Z",
+    "generation": 7463
+  },
+  {
+    "targetTime": "2024-01-16T11:30:00Z",
+    "generation": 7449
+  },
+  {
+    "targetTime": "2024-01-16T12:00:00Z",
+    "generation": 7607
+  },
+  {
+    "targetTime": "2024-01-16T12:30:00Z",
+    "generation": 8122
+  },
+  {
+    "targetTime": "2024-01-16T13:00:00Z",
+    "generation": 8206
+  },
+  {
+    "targetTime": "2024-01-16T13:30:00Z",
+    "generation": 8607
+  },
+  {
+    "targetTime": "2024-01-16T14:00:00Z",
+    "generation": 9047
+  },
+  {
+    "targetTime": "2024-01-16T14:30:00Z",
+    "generation": 9180
+  },
+  {
+    "targetTime": "2024-01-16T15:00:00Z",
+    "generation": 9603
+  },
+  {
+    "targetTime": "2024-01-16T15:30:00Z",
+    "generation": 10811
+  },
+  {
+    "targetTime": "2024-01-16T16:00:00Z",
+    "generation": 11451
+  },
+  {
+    "targetTime": "2024-01-16T16:30:00Z",
+    "generation": 12264
+  },
+  {
+    "targetTime": "2024-01-16T17:00:00Z",
+    "generation": 12975
+  },
+  {
+    "targetTime": "2024-01-16T17:30:00Z",
+    "generation": 12989
+  },
+  {
+    "targetTime": "2024-01-16T18:00:00Z",
+    "generation": 12865
+  },
+  {
+    "targetTime": "2024-01-16T18:30:00Z",
+    "generation": 13113
+  },
+  {
+    "targetTime": "2024-01-16T19:00:00Z",
+    "generation": 13083
+  },
+  {
+    "targetTime": "2024-01-16T19:30:00Z",
+    "generation": 13106
+  },
+  {
+    "targetTime": "2024-01-16T20:00:00Z",
+    "generation": 12888
+  },
+  {
+    "targetTime": "2024-01-16T20:30:00Z",
+    "generation": 12532
+  },
+  {
+    "targetTime": "2024-01-16T21:00:00Z",
+    "generation": 12042
+  },
+  {
+    "targetTime": "2024-01-16T21:30:00Z",
+    "generation": 11991
+  },
+  {
+    "targetTime": "2024-01-16T22:00:00Z",
+    "generation": 11610
+  },
+  {
+    "targetTime": "2024-01-16T22:30:00Z",
+    "generation": 11742
+  },
+  {
+    "targetTime": "2024-01-16T23:00:00Z",
+    "generation": 11622
+  },
+  {
+    "targetTime": "2024-01-16T23:30:00Z",
+    "generation": 11388
+  },
+  {
+    "targetTime": "2024-01-17T00:00:00Z",
+    "generation": 10883
+  },
+  {
+    "targetTime": "2024-01-17T00:30:00Z",
+    "generation": 10311
+  },
+  {
+    "targetTime": "2024-01-17T01:00:00Z",
+    "generation": 9675
+  },
+  {
+    "targetTime": "2024-01-17T01:30:00Z",
+    "generation": 9320
+  },
+  {
+    "targetTime": "2024-01-17T02:00:00Z",
+    "generation": 9013
+  },
+  {
+    "targetTime": "2024-01-17T02:30:00Z",
+    "generation": 8423
+  },
+  {
+    "targetTime": "2024-01-17T03:00:00Z",
+    "generation": 7573
+  },
+  {
+    "targetTime": "2024-01-17T03:30:00Z",
+    "generation": 6710
+  },
+  {
+    "targetTime": "2024-01-17T04:00:00Z",
+    "generation": 6030
+  },
+  {
+    "targetTime": "2024-01-17T04:30:00Z",
+    "generation": 5342
+  },
+  {
+    "targetTime": "2024-01-17T05:00:00Z",
+    "generation": 4695
+  },
+  {
+    "targetTime": "2024-01-17T05:30:00Z",
+    "generation": 4464
+  },
+  {
+    "targetTime": "2024-01-17T06:00:00Z",
+    "generation": 4682
+  },
+  {
+    "targetTime": "2024-01-17T06:30:00Z",
+    "generation": 4880
+  },
+  {
+    "targetTime": "2024-01-17T07:00:00Z",
+    "generation": 4822
+  },
+  {
+    "targetTime": "2024-01-17T07:30:00Z",
+    "generation": 4252
+  },
+  {
+    "targetTime": "2024-01-17T08:00:00Z",
+    "generation": 3988
+  },
+  {
+    "targetTime": "2024-01-17T08:30:00Z",
+    "generation": 4340
+  },
+  {
+    "targetTime": "2024-01-17T09:00:00Z",
+    "generation": 4434
+  },
+  {
+    "targetTime": "2024-01-17T09:30:00Z",
+    "generation": 4345
+  },
+  {
+    "targetTime": "2024-01-17T10:00:00Z",
+    "generation": 3902
+  },
+  {
+    "targetTime": "2024-01-17T10:30:00Z",
+    "generation": 3670
+  },
+  {
+    "targetTime": "2024-01-17T11:00:00Z",
+    "generation": 3455
+  },
+  {
+    "targetTime": "2024-01-17T11:30:00Z",
+    "generation": 3179
+  },
+  {
+    "targetTime": "2024-01-17T12:00:00Z",
+    "generation": 3238
+  },
+  {
+    "targetTime": "2024-01-17T12:30:00Z",
+    "generation": 3501
+  },
+  {
+    "targetTime": "2024-01-17T13:00:00Z",
+    "generation": 3785
+  },
+  {
+    "targetTime": "2024-01-17T13:30:00Z",
+    "generation": 4254
+  },
+  {
+    "targetTime": "2024-01-17T14:00:00Z",
+    "generation": 4774
+  },
+  {
+    "targetTime": "2024-01-17T14:30:00Z",
+    "generation": 5335
+  },
+  {
+    "targetTime": "2024-01-17T15:00:00Z",
+    "generation": 5291
+  },
+  {
+    "targetTime": "2024-01-17T15:30:00Z",
+    "generation": 5163
+  },
+  {
+    "targetTime": "2024-01-17T16:00:00Z",
+    "generation": 6190
+  },
+  {
+    "targetTime": "2024-01-17T16:30:00Z",
+    "generation": 6709
+  },
+  {
+    "targetTime": "2024-01-17T17:00:00Z",
+    "generation": 6631
+  },
+  {
+    "targetTime": "2024-01-17T17:30:00Z",
+    "generation": 6928
+  },
+  {
+    "targetTime": "2024-01-17T18:00:00Z",
+    "generation": 7004
+  },
+  {
+    "targetTime": "2024-01-17T18:30:00Z",
+    "generation": 7410
+  },
+  {
+    "targetTime": "2024-01-17T19:00:00Z",
+    "generation": 8038
+  },
+  {
+    "targetTime": "2024-01-17T19:30:00Z",
+    "generation": 8125
+  },
+  {
+    "targetTime": "2024-01-17T20:00:00Z",
+    "generation": 7850
+  },
+  {
+    "targetTime": "2024-01-17T20:30:00Z",
+    "generation": 7925
+  },
+  {
+    "targetTime": "2024-01-17T21:00:00Z",
+    "generation": 7426
+  },
+  {
+    "targetTime": "2024-01-17T21:30:00Z",
+    "generation": 6999
+  },
+  {
+    "targetTime": "2024-01-17T22:00:00Z",
+    "generation": 6788
+  },
+  {
+    "targetTime": "2024-01-17T22:30:00Z",
+    "generation": 6796
+  },
+  {
+    "targetTime": "2024-01-17T23:00:00Z",
+    "generation": 6841
+  },
+  {
+    "targetTime": "2024-01-17T23:30:00Z",
+    "generation": 6763
+  },
+  {
+    "targetTime": "2024-01-18T00:00:00Z",
+    "generation": 6431
+  },
+  {
+    "targetTime": "2024-01-18T00:30:00Z",
+    "generation": 6939
+  },
+  {
+    "targetTime": "2024-01-18T01:00:00Z",
+    "generation": 7447
+  },
+  {
+    "targetTime": "2024-01-18T01:30:00Z",
+    "generation": 8491
+  },
+  {
+    "targetTime": "2024-01-18T02:00:00Z",
+    "generation": 8596
+  },
+  {
+    "targetTime": "2024-01-18T02:30:00Z",
+    "generation": 8096
+  },
+  {
+    "targetTime": "2024-01-18T03:00:00Z",
+    "generation": 7493
+  },
+  {
+    "targetTime": "2024-01-18T03:30:00Z",
+    "generation": 7360
+  },
+  {
+    "targetTime": "2024-01-18T04:00:00Z",
+    "generation": 6878
+  },
+  {
+    "targetTime": "2024-01-18T04:30:00Z",
+    "generation": 6044
+  },
+  {
+    "targetTime": "2024-01-18T05:00:00Z",
+    "generation": 6362
+  },
+  {
+    "targetTime": "2024-01-18T05:30:00Z",
+    "generation": 6862
+  },
+  {
+    "targetTime": "2024-01-18T06:00:00Z",
+    "generation": 6990
+  },
+  {
+    "targetTime": "2024-01-18T06:30:00Z",
+    "generation": 7283
+  },
+  {
+    "targetTime": "2024-01-18T07:00:00Z",
+    "generation": 6833
+  },
+  {
+    "targetTime": "2024-01-18T07:30:00Z",
+    "generation": 6751
+  },
+  {
+    "targetTime": "2024-01-18T08:00:00Z",
+    "generation": 6392
+  },
+  {
+    "targetTime": "2024-01-18T08:30:00Z",
+    "generation": 5897
+  },
+  {
+    "targetTime": "2024-01-18T09:00:00Z",
+    "generation": 5659
+  },
+  {
+    "targetTime": "2024-01-18T09:30:00Z",
+    "generation": 6231
+  },
+  {
+    "targetTime": "2024-01-18T10:00:00Z",
+    "generation": 6206
+  },
+  {
+    "targetTime": "2024-01-18T10:30:00Z",
+    "generation": 6333
+  },
+  {
+    "targetTime": "2024-01-18T11:00:00Z",
+    "generation": 6688
+  },
+  {
+    "targetTime": "2024-01-18T11:30:00Z",
+    "generation": 7308
+  },
+  {
+    "targetTime": "2024-01-18T12:00:00Z",
+    "generation": 7551
+  },
+  {
+    "targetTime": "2024-01-18T12:30:00Z",
+    "generation": 7180
+  },
+  {
+    "targetTime": "2024-01-18T13:00:00Z",
+    "generation": 7082
+  },
+  {
+    "targetTime": "2024-01-18T13:30:00Z",
+    "generation": 7754
+  },
+  {
+    "targetTime": "2024-01-18T14:00:00Z",
+    "generation": 8365
+  },
+  {
+    "targetTime": "2024-01-18T14:30:00Z",
+    "generation": 9019
+  },
+  {
+    "targetTime": "2024-01-18T15:00:00Z",
+    "generation": 9515
+  },
+  {
+    "targetTime": "2024-01-18T15:30:00Z",
+    "generation": 10164
+  },
+  {
+    "targetTime": "2024-01-18T16:00:00Z",
+    "generation": 10356
+  },
+  {
+    "targetTime": "2024-01-18T16:30:00Z",
+    "generation": 10765
+  },
+  {
+    "targetTime": "2024-01-18T17:00:00Z",
+    "generation": 11322
+  },
+  {
+    "targetTime": "2024-01-18T17:30:00Z",
+    "generation": 11727
+  },
+  {
+    "targetTime": "2024-01-18T18:00:00Z",
+    "generation": 12362
+  },
+  {
+    "targetTime": "2024-01-18T18:30:00Z",
+    "generation": 12443
+  },
+  {
+    "targetTime": "2024-01-18T19:00:00Z",
+    "generation": 11678
+  },
+  {
+    "targetTime": "2024-01-18T19:30:00Z",
+    "generation": 11307
+  },
+  {
+    "targetTime": "2024-01-18T20:00:00Z",
+    "generation": 11339
+  },
+  {
+    "targetTime": "2024-01-18T20:30:00Z",
+    "generation": 11344
+  },
+  {
+    "targetTime": "2024-01-18T21:00:00Z",
+    "generation": 11629
+  },
+  {
+    "targetTime": "2024-01-18T21:30:00Z",
+    "generation": 11648
+  },
+  {
+    "targetTime": "2024-01-18T22:00:00Z",
+    "generation": 11561
+  },
+  {
+    "targetTime": "2024-01-18T22:30:00Z",
+    "generation": 11843
+  },
+  {
+    "targetTime": "2024-01-18T23:00:00Z",
+    "generation": 11716
+  },
+  {
+    "targetTime": "2024-01-18T23:30:00Z",
+    "generation": 11747
+  },
+  {
+    "targetTime": "2024-01-19T00:00:00Z",
+    "generation": 11417
+  },
+  {
+    "targetTime": "2024-01-19T00:30:00Z",
+    "generation": 11180
+  },
+  {
+    "targetTime": "2024-01-19T01:00:00Z",
+    "generation": 11590
+  },
+  {
+    "targetTime": "2024-01-19T01:30:00Z",
+    "generation": 11553
+  },
+  {
+    "targetTime": "2024-01-19T02:00:00Z",
+    "generation": 11509
+  },
+  {
+    "targetTime": "2024-01-19T02:30:00Z",
+    "generation": 11728
+  },
+  {
+    "targetTime": "2024-01-19T03:00:00Z",
+    "generation": 11687
+  },
+  {
+    "targetTime": "2024-01-19T03:30:00Z",
+    "generation": 11751
+  },
+  {
+    "targetTime": "2024-01-19T04:00:00Z",
+    "generation": 11337
+  },
+  {
+    "targetTime": "2024-01-19T04:30:00Z",
+    "generation": 11244
+  },
+  {
+    "targetTime": "2024-01-19T05:00:00Z",
+    "generation": 11423
+  },
+  {
+    "targetTime": "2024-01-19T05:30:00Z",
+    "generation": 11661
+  },
+  {
+    "targetTime": "2024-01-19T06:00:00Z",
+    "generation": 11717
+  },
+  {
+    "targetTime": "2024-01-19T06:30:00Z",
+    "generation": 11405
+  },
+  {
+    "targetTime": "2024-01-19T07:00:00Z",
+    "generation": 11668
+  },
+  {
+    "targetTime": "2024-01-19T07:30:00Z",
+    "generation": 12110
+  },
+  {
+    "targetTime": "2024-01-19T08:00:00Z",
+    "generation": 12606
+  },
+  {
+    "targetTime": "2024-01-19T08:30:00Z",
+    "generation": 12537
+  },
+  {
+    "targetTime": "2024-01-19T09:00:00Z",
+    "generation": 12592
+  },
+  {
+    "targetTime": "2024-01-19T09:30:00Z",
+    "generation": 12724
+  },
+  {
+    "targetTime": "2024-01-19T10:00:00Z",
+    "generation": 12700
+  },
+  {
+    "targetTime": "2024-01-19T10:30:00Z",
+    "generation": 13097
+  },
+  {
+    "targetTime": "2024-01-19T11:00:00Z",
+    "generation": 13342
+  },
+  {
+    "targetTime": "2024-01-19T11:30:00Z",
+    "generation": 13641
+  },
+  {
+    "targetTime": "2024-01-19T12:00:00Z",
+    "generation": 13807
+  },
+  {
+    "targetTime": "2024-01-19T12:30:00Z",
+    "generation": 13958
+  },
+  {
+    "targetTime": "2024-01-19T13:00:00Z",
+    "generation": 11807
+  },
+  {
+    "targetTime": "2024-01-19T13:30:00Z",
+    "generation": 14349
+  },
+  {
+    "targetTime": "2024-01-19T14:00:00Z",
+    "generation": 14160
+  },
+  {
+    "targetTime": "2024-01-19T14:30:00Z",
+    "generation": 13847
+  },
+  {
+    "targetTime": "2024-01-19T15:00:00Z",
+    "generation": 13844
+  },
+  {
+    "targetTime": "2024-01-19T15:30:00Z",
+    "generation": 13901
+  },
+  {
+    "targetTime": "2024-01-19T16:00:00Z",
+    "generation": 13906
+  },
+  {
+    "targetTime": "2024-01-19T16:30:00Z",
+    "generation": 13697
+  },
+  {
+    "targetTime": "2024-01-19T17:00:00Z",
+    "generation": 13613
+  },
+  {
+    "targetTime": "2024-01-19T17:30:00Z",
+    "generation": 13892
+  },
+  {
+    "targetTime": "2024-01-19T18:00:00Z",
+    "generation": 14025
+  },
+  {
+    "targetTime": "2024-01-19T18:30:00Z",
+    "generation": 14184
+  },
+  {
+    "targetTime": "2024-01-19T19:00:00Z",
+    "generation": 14208
+  },
+  {
+    "targetTime": "2024-01-19T19:30:00Z",
+    "generation": 14358
+  },
+  {
+    "targetTime": "2024-01-19T20:00:00Z",
+    "generation": 14634
+  },
+  {
+    "targetTime": "2024-01-19T20:30:00Z",
+    "generation": 14687
+  },
+  {
+    "targetTime": "2024-01-19T21:00:00Z",
+    "generation": 13992
+  },
+  {
+    "targetTime": "2024-01-19T21:30:00Z",
+    "generation": 13871
+  },
+  {
+    "targetTime": "2024-01-19T22:00:00Z",
+    "generation": 13956
+  },
+  {
+    "targetTime": "2024-01-19T22:30:00Z",
+    "generation": 14014
+  },
+  {
+    "targetTime": "2024-01-19T23:00:00Z",
+    "generation": 14025
+  },
+  {
+    "targetTime": "2024-01-19T23:30:00Z",
+    "generation": 13845
+  },
+  {
+    "targetTime": "2024-01-20T00:00:00Z",
+    "generation": 13736
+  },
+  {
+    "targetTime": "2024-01-20T00:30:00Z",
+    "generation": 13852
+  },
+  {
+    "targetTime": "2024-01-20T01:00:00Z",
+    "generation": 13650
+  },
+  {
+    "targetTime": "2024-01-20T01:30:00Z",
+    "generation": 13788
+  },
+  {
+    "targetTime": "2024-01-20T02:00:00Z",
+    "generation": 14124
+  },
+  {
+    "targetTime": "2024-01-20T02:30:00Z",
+    "generation": 14310
+  },
+  {
+    "targetTime": "2024-01-20T03:00:00Z",
+    "generation": 14459
+  },
+  {
+    "targetTime": "2024-01-20T03:30:00Z",
+    "generation": 14755
+  },
+  {
+    "targetTime": "2024-01-20T04:00:00Z",
+    "generation": 14938
+  },
+  {
+    "targetTime": "2024-01-20T04:30:00Z",
+    "generation": 15096
+  },
+  {
+    "targetTime": "2024-01-20T05:00:00Z",
+    "generation": 15267
+  },
+  {
+    "targetTime": "2024-01-20T05:30:00Z",
+    "generation": 15062
+  },
+  {
+    "targetTime": "2024-01-20T06:00:00Z",
+    "generation": 14918
+  },
+  {
+    "targetTime": "2024-01-20T06:30:00Z",
+    "generation": 14860
+  },
+  {
+    "targetTime": "2024-01-20T07:00:00Z",
+    "generation": 14954
+  },
+  {
+    "targetTime": "2024-01-20T07:30:00Z",
+    "generation": 15094
+  },
+  {
+    "targetTime": "2024-01-20T08:00:00Z",
+    "generation": 15281
+  },
+  {
+    "targetTime": "2024-01-20T08:30:00Z",
+    "generation": 15331
+  },
+  {
+    "targetTime": "2024-01-20T09:00:00Z",
+    "generation": 15269
+  },
+  {
+    "targetTime": "2024-01-20T09:30:00Z",
+    "generation": 15181
+  },
+  {
+    "targetTime": "2024-01-20T10:00:00Z",
+    "generation": 15432
+  },
+  {
+    "targetTime": "2024-01-20T10:30:00Z",
+    "generation": 15707
+  },
+  {
+    "targetTime": "2024-01-20T11:00:00Z",
+    "generation": 15970
+  },
+  {
+    "targetTime": "2024-01-20T11:30:00Z",
+    "generation": 16245
+  },
+  {
+    "targetTime": "2024-01-20T12:00:00Z",
+    "generation": 16185
+  },
+  {
+    "targetTime": "2024-01-20T12:30:00Z",
+    "generation": 16283
+  },
+  {
+    "targetTime": "2024-01-20T13:00:00Z",
+    "generation": 16129
+  },
+  {
+    "targetTime": "2024-01-20T13:30:00Z",
+    "generation": 16137
+  },
+  {
+    "targetTime": "2024-01-20T14:00:00Z",
+    "generation": 16279
+  },
+  {
+    "targetTime": "2024-01-20T14:30:00Z",
+    "generation": 16253
+  },
+  {
+    "targetTime": "2024-01-20T15:00:00Z",
+    "generation": 16261
+  },
+  {
+    "targetTime": "2024-01-20T15:30:00Z",
+    "generation": 16034
+  },
+  {
+    "targetTime": "2024-01-20T16:00:00Z",
+    "generation": 16240
+  },
+  {
+    "targetTime": "2024-01-20T16:30:00Z",
+    "generation": 16244
+  },
+  {
+    "targetTime": "2024-01-20T17:00:00Z",
+    "generation": 16246
+  },
+  {
+    "targetTime": "2024-01-20T17:30:00Z",
+    "generation": 16185
+  },
+  {
+    "targetTime": "2024-01-20T18:00:00Z",
+    "generation": 16073
+  },
+  {
+    "targetTime": "2024-01-20T18:30:00Z",
+    "generation": 15971
+  },
+  {
+    "targetTime": "2024-01-20T19:00:00Z",
+    "generation": 15985
+  },
+  {
+    "targetTime": "2024-01-20T19:30:00Z",
+    "generation": 15950
+  },
+  {
+    "targetTime": "2024-01-20T20:00:00Z",
+    "generation": 16260
+  },
+  {
+    "targetTime": "2024-01-20T20:30:00Z",
+    "generation": 16662
+  },
+  {
+    "targetTime": "2024-01-20T21:00:00Z",
+    "generation": 16434
+  },
+  {
+    "targetTime": "2024-01-20T21:30:00Z",
+    "generation": 16143
+  },
+  {
+    "targetTime": "2024-01-20T22:00:00Z",
+    "generation": 16118
+  },
+  {
+    "targetTime": "2024-01-20T22:30:00Z",
+    "generation": 16102
+  },
+  {
+    "targetTime": "2024-01-20T23:00:00Z",
+    "generation": 16072
+  },
+  {
+    "targetTime": "2024-01-20T23:30:00Z",
+    "generation": 15959
+  },
+  {
+    "targetTime": "2024-01-21T00:00:00Z",
+    "generation": 15884
+  },
+  {
+    "targetTime": "2024-01-21T00:30:00Z",
+    "generation": 15535
+  },
+  {
+    "targetTime": "2024-01-21T01:00:00Z",
+    "generation": 15248
+  },
+  {
+    "targetTime": "2024-01-21T01:30:00Z",
+    "generation": 15132
+  },
+  {
+    "targetTime": "2024-01-21T02:00:00Z",
+    "generation": 14809
+  },
+  {
+    "targetTime": "2024-01-21T02:30:00Z",
+    "generation": 14637
+  },
+  {
+    "targetTime": "2024-01-21T03:00:00Z",
+    "generation": 14474
+  },
+  {
+    "targetTime": "2024-01-21T03:30:00Z",
+    "generation": 14028
+  },
+  {
+    "targetTime": "2024-01-21T04:00:00Z",
+    "generation": 13775
+  },
+  {
+    "targetTime": "2024-01-21T04:30:00Z",
+    "generation": 14036
+  },
+  {
+    "targetTime": "2024-01-21T05:00:00Z",
+    "generation": 14540
+  },
+  {
+    "targetTime": "2024-01-21T05:30:00Z",
+    "generation": 14247
+  },
+  {
+    "targetTime": "2024-01-21T06:00:00Z",
+    "generation": 13505
+  },
+  {
+    "targetTime": "2024-01-21T06:30:00Z",
+    "generation": 14168
+  },
+  {
+    "targetTime": "2024-01-21T07:00:00Z",
+    "generation": 14359
+  },
+  {
+    "targetTime": "2024-01-21T07:30:00Z",
+    "generation": 14343
+  },
+  {
+    "targetTime": "2024-01-21T08:00:00Z",
+    "generation": 14072
+  },
+  {
+    "targetTime": "2024-01-21T08:30:00Z",
+    "generation": 14152
+  },
+  {
+    "targetTime": "2024-01-21T09:00:00Z",
+    "generation": 14474
+  },
+  {
+    "targetTime": "2024-01-21T09:30:00Z",
+    "generation": 15158
+  },
+  {
+    "targetTime": "2024-01-21T10:00:00Z",
+    "generation": 15221
+  },
+  {
+    "targetTime": "2024-01-21T10:30:00Z",
+    "generation": 14975
+  },
+  {
+    "targetTime": "2024-01-21T11:00:00Z",
+    "generation": 15127
+  },
+  {
+    "targetTime": "2024-01-21T11:30:00Z",
+    "generation": 15761
+  },
+  {
+    "targetTime": "2024-01-21T12:00:00Z",
+    "generation": 15746
+  },
+  {
+    "targetTime": "2024-01-21T12:30:00Z",
+    "generation": 15338
+  },
+  {
+    "targetTime": "2024-01-21T13:00:00Z",
+    "generation": 14874
+  },
+  {
+    "targetTime": "2024-01-21T13:30:00Z",
+    "generation": 14969
+  },
+  {
+    "targetTime": "2024-01-21T14:00:00Z",
+    "generation": 14866
+  },
+  {
+    "targetTime": "2024-01-21T14:30:00Z",
+    "generation": 15018
+  },
+  {
+    "targetTime": "2024-01-21T15:00:00Z",
+    "generation": 14802
+  },
+  {
+    "targetTime": "2024-01-21T15:30:00Z",
+    "generation": 14627
+  },
+  {
+    "targetTime": "2024-01-21T16:00:00Z",
+    "generation": 14731
+  },
+  {
+    "targetTime": "2024-01-21T16:30:00Z",
+    "generation": 14708
+  },
+  {
+    "targetTime": "2024-01-21T17:00:00Z",
+    "generation": 14630
+  },
+  {
+    "targetTime": "2024-01-21T17:30:00Z",
+    "generation": 14190
+  },
+  {
+    "targetTime": "2024-01-21T18:00:00Z",
+    "generation": 13740
+  },
+  {
+    "targetTime": "2024-01-21T18:30:00Z",
+    "generation": 13028
+  },
+  {
+    "targetTime": "2024-01-21T19:00:00Z",
+    "generation": 12901
+  },
+  {
+    "targetTime": "2024-01-21T19:30:00Z",
+    "generation": 11789
+  },
+  {
+    "targetTime": "2024-01-21T20:00:00Z",
+    "generation": 11299
+  },
+  {
+    "targetTime": "2024-01-21T20:30:00Z",
+    "generation": 10202
+  },
+  {
+    "targetTime": "2024-01-21T21:00:00Z",
+    "generation": 9112
+  },
+  {
+    "targetTime": "2024-01-21T21:30:00Z",
+    "generation": 8197
+  },
+  {
+    "targetTime": "2024-01-21T22:00:00Z",
+    "generation": 8108
+  },
+  {
+    "targetTime": "2024-01-21T22:30:00Z",
+    "generation": 8182
+  },
+  {
+    "targetTime": "2024-01-21T23:00:00Z",
+    "generation": 8493
+  },
+  {
+    "targetTime": "2024-01-21T23:30:00Z",
+    "generation": 8503
+  },
+  {
+    "targetTime": "2024-01-22T00:00:00Z",
+    "generation": 8662
+  },
+  {
+    "targetTime": "2024-01-22T00:30:00Z",
+    "generation": 8485
+  },
+  {
+    "targetTime": "2024-01-22T01:00:00Z",
+    "generation": 8121
+  },
+  {
+    "targetTime": "2024-01-22T01:30:00Z",
+    "generation": 8344
+  },
+  {
+    "targetTime": "2024-01-22T02:00:00Z",
+    "generation": 8638
+  },
+  {
+    "targetTime": "2024-01-22T02:30:00Z",
+    "generation": 9403
+  },
+  {
+    "targetTime": "2024-01-22T03:00:00Z",
+    "generation": 10235
+  },
+  {
+    "targetTime": "2024-01-22T03:30:00Z",
+    "generation": 10824
+  },
+  {
+    "targetTime": "2024-01-22T04:00:00Z",
+    "generation": 11196
+  },
+  {
+    "targetTime": "2024-01-22T04:30:00Z",
+    "generation": 11465
+  },
+  {
+    "targetTime": "2024-01-22T05:00:00Z",
+    "generation": 11531
+  },
+  {
+    "targetTime": "2024-01-22T05:30:00Z",
+    "generation": 11847
+  },
+  {
+    "targetTime": "2024-01-22T06:00:00Z",
+    "generation": 12139
+  },
+  {
+    "targetTime": "2024-01-22T06:30:00Z",
+    "generation": 12742
+  },
+  {
+    "targetTime": "2024-01-22T07:00:00Z",
+    "generation": 13423
+  },
+  {
+    "targetTime": "2024-01-22T07:30:00Z",
+    "generation": 14265
+  },
+  {
+    "targetTime": "2024-01-22T08:00:00Z",
+    "generation": 14698
+  },
+  {
+    "targetTime": "2024-01-22T08:30:00Z",
+    "generation": 14883
+  },
+  {
+    "targetTime": "2024-01-22T09:00:00Z",
+    "generation": 14969
+  },
+  {
+    "targetTime": "2024-01-22T09:30:00Z",
+    "generation": 15083
+  },
+  {
+    "targetTime": "2024-01-22T10:00:00Z",
+    "generation": 15231
+  },
+  {
+    "targetTime": "2024-01-22T10:30:00Z",
+    "generation": 15390
+  },
+  {
+    "targetTime": "2024-01-22T11:00:00Z",
+    "generation": 15408
+  },
+  {
+    "targetTime": "2024-01-22T11:30:00Z",
+    "generation": 15533
+  },
+  {
+    "targetTime": "2024-01-22T12:00:00Z",
+    "generation": 15341
+  },
+  {
+    "targetTime": "2024-01-22T12:30:00Z",
+    "generation": 15524
+  },
+  {
+    "targetTime": "2024-01-22T13:00:00Z",
+    "generation": 15638
+  },
+  {
+    "targetTime": "2024-01-22T13:30:00Z",
+    "generation": 15717
+  },
+  {
+    "targetTime": "2024-01-22T14:00:00Z",
+    "generation": 16018
+  },
+  {
+    "targetTime": "2024-01-22T14:30:00Z",
+    "generation": 15810
+  },
+  {
+    "targetTime": "2024-01-22T15:00:00Z",
+    "generation": 15682
+  },
+  {
+    "targetTime": "2024-01-22T15:30:00Z",
+    "generation": 15649
+  },
+  {
+    "targetTime": "2024-01-22T16:00:00Z",
+    "generation": 15877
+  },
+  {
+    "targetTime": "2024-01-22T16:30:00Z",
+    "generation": 13225
+  },
+  {
+    "targetTime": "2024-01-22T17:00:00Z",
+    "generation": 15743
+  },
+  {
+    "targetTime": "2024-01-22T17:30:00Z",
+    "generation": 15885
+  },
+  {
+    "targetTime": "2024-01-22T18:00:00Z",
+    "generation": 15855
+  },
+  {
+    "targetTime": "2024-01-22T18:30:00Z",
+    "generation": 15910
+  },
+  {
+    "targetTime": "2024-01-22T19:00:00Z",
+    "generation": 15798
+  },
+  {
+    "targetTime": "2024-01-22T19:30:00Z",
+    "generation": 15727
+  },
+  {
+    "targetTime": "2024-01-22T20:00:00Z",
+    "generation": 15742
+  },
+  {
+    "targetTime": "2024-01-22T20:30:00Z",
+    "generation": 15679
+  },
+  {
+    "targetTime": "2024-01-22T21:00:00Z",
+    "generation": 15692
+  },
+  {
+    "targetTime": "2024-01-22T21:30:00Z",
+    "generation": 15594
+  },
+  {
+    "targetTime": "2024-01-22T22:00:00Z",
+    "generation": 15461
+  },
+  {
+    "targetTime": "2024-01-22T22:30:00Z",
+    "generation": 15305
+  },
+  {
+    "targetTime": "2024-01-22T23:00:00Z",
+    "generation": 15049
+  },
+  {
+    "targetTime": "2024-01-22T23:30:00Z",
+    "generation": 14926
+  },
+  {
+    "targetTime": "2024-01-23T00:00:00Z",
+    "generation": 14934
+  },
+  {
+    "targetTime": "2024-01-23T00:30:00Z",
+    "generation": 14793
+  },
+  {
+    "targetTime": "2024-01-23T01:00:00Z",
+    "generation": 14541
+  },
+  {
+    "targetTime": "2024-01-23T01:30:00Z",
+    "generation": 14072
+  },
+  {
+    "targetTime": "2024-01-23T02:00:00Z",
+    "generation": 13765
+  },
+  {
+    "targetTime": "2024-01-23T02:30:00Z",
+    "generation": 13509
+  },
+  {
+    "targetTime": "2024-01-23T03:00:00Z",
+    "generation": 12974
+  },
+  {
+    "targetTime": "2024-01-23T03:30:00Z",
+    "generation": 12866
+  },
+  {
+    "targetTime": "2024-01-23T04:00:00Z",
+    "generation": 12541
+  },
+  {
+    "targetTime": "2024-01-23T04:30:00Z",
+    "generation": 12002
+  },
+  {
+    "targetTime": "2024-01-23T05:00:00Z",
+    "generation": 12089
+  },
+  {
+    "targetTime": "2024-01-23T05:30:00Z",
+    "generation": 12164
+  },
+  {
+    "targetTime": "2024-01-23T06:00:00Z",
+    "generation": 12206
+  },
+  {
+    "targetTime": "2024-01-23T06:30:00Z",
+    "generation": 12362
+  },
+  {
+    "targetTime": "2024-01-23T07:00:00Z",
+    "generation": 13002
+  },
+  {
+    "targetTime": "2024-01-23T07:30:00Z",
+    "generation": 13604
+  },
+  {
+    "targetTime": "2024-01-23T08:00:00Z",
+    "generation": 14101
+  },
+  {
+    "targetTime": "2024-01-23T08:30:00Z",
+    "generation": 14453
+  },
+  {
+    "targetTime": "2024-01-23T09:00:00Z",
+    "generation": 14526
+  },
+  {
+    "targetTime": "2024-01-23T09:30:00Z",
+    "generation": 14747
+  },
+  {
+    "targetTime": "2024-01-23T10:00:00Z",
+    "generation": 14552
+  },
+  {
+    "targetTime": "2024-01-23T10:30:00Z",
+    "generation": 2469
+  },
+  {
+    "targetTime": "2024-01-23T11:00:00Z",
+    "generation": 0
+  },
+  {
+    "targetTime": "2024-01-23T11:30:00Z",
+    "generation": 0
+  },
+  {
+    "targetTime": "2024-01-23T12:00:00Z",
+    "generation": 12439
+  },
+  {
+    "targetTime": "2024-01-23T12:30:00Z",
+    "generation": 15262
+  },
+  {
+    "targetTime": "2024-01-23T13:00:00Z",
+    "generation": 15288
+  },
+  {
+    "targetTime": "2024-01-23T13:30:00Z",
+    "generation": 15407
+  },
+  {
+    "targetTime": "2024-01-23T14:00:00Z",
+    "generation": 15721
+  },
+  {
+    "targetTime": "2024-01-23T14:30:00Z",
+    "generation": 15654
+  },
+  {
+    "targetTime": "2024-01-23T15:00:00Z",
+    "generation": 15455
+  },
+  {
+    "targetTime": "2024-01-23T15:30:00Z",
+    "generation": 15341
+  },
+  {
+    "targetTime": "2024-01-23T16:00:00Z",
+    "generation": 15280
+  },
+  {
+    "targetTime": "2024-01-23T16:30:00Z",
+    "generation": 15301
+  },
+  {
+    "targetTime": "2024-01-23T17:00:00Z",
+    "generation": 15232
+  },
+  {
+    "targetTime": "2024-01-23T17:30:00Z",
+    "generation": 15389
+  },
+  {
+    "targetTime": "2024-01-23T18:00:00Z",
+    "generation": 15500
+  },
+  {
+    "targetTime": "2024-01-23T18:30:00Z",
+    "generation": 15256
+  },
+  {
+    "targetTime": "2024-01-23T19:00:00Z",
+    "generation": 15087
+  },
+  {
+    "targetTime": "2024-01-23T19:30:00Z",
+    "generation": 15070
+  },
+  {
+    "targetTime": "2024-01-23T20:00:00Z",
+    "generation": 15140
+  },
+  {
+    "targetTime": "2024-01-23T20:30:00Z",
+    "generation": 15099
+  },
+  {
+    "targetTime": "2024-01-23T21:00:00Z",
+    "generation": 14506
+  },
+  {
+    "targetTime": "2024-01-23T21:30:00Z",
+    "generation": 14128
+  },
+  {
+    "targetTime": "2024-01-23T22:00:00Z",
+    "generation": 13779
+  },
+  {
+    "targetTime": "2024-01-23T22:30:00Z",
+    "generation": 13565
+  },
+  {
+    "targetTime": "2024-01-23T23:00:00Z",
+    "generation": 13784
+  },
+  {
+    "targetTime": "2024-01-23T23:30:00Z",
+    "generation": 14027
+  },
+  {
+    "targetTime": "2024-01-24T00:00:00Z",
+    "generation": 13888
+  },
+  {
+    "targetTime": "2024-01-24T00:30:00Z",
+    "generation": 13934
+  },
+  {
+    "targetTime": "2024-01-24T01:00:00Z",
+    "generation": 13913
+  },
+  {
+    "targetTime": "2024-01-24T01:30:00Z",
+    "generation": 13825
+  },
+  {
+    "targetTime": "2024-01-24T02:00:00Z",
+    "generation": 13586
+  },
+  {
+    "targetTime": "2024-01-24T02:30:00Z",
+    "generation": 13585
+  },
+  {
+    "targetTime": "2024-01-24T03:00:00Z",
+    "generation": 13351
+  },
+  {
+    "targetTime": "2024-01-24T03:30:00Z",
+    "generation": 13336
+  },
+  {
+    "targetTime": "2024-01-24T04:00:00Z",
+    "generation": 13392
+  },
+  {
+    "targetTime": "2024-01-24T04:30:00Z",
+    "generation": 13158
+  },
+  {
+    "targetTime": "2024-01-24T05:00:00Z",
+    "generation": 13320
+  },
+  {
+    "targetTime": "2024-01-24T05:30:00Z",
+    "generation": 13459
+  },
+  {
+    "targetTime": "2024-01-24T06:00:00Z",
+    "generation": 13479
+  },
+  {
+    "targetTime": "2024-01-24T06:30:00Z",
+    "generation": 13875
+  },
+  {
+    "targetTime": "2024-01-24T07:00:00Z",
+    "generation": 14158
+  },
+  {
+    "targetTime": "2024-01-24T07:30:00Z",
+    "generation": 14397
+  },
+  {
+    "targetTime": "2024-01-24T08:00:00Z",
+    "generation": 14406
+  },
+  {
+    "targetTime": "2024-01-24T08:30:00Z",
+    "generation": 14765
+  },
+  {
+    "targetTime": "2024-01-24T09:00:00Z",
+    "generation": 14811
+  },
+  {
+    "targetTime": "2024-01-24T09:30:00Z",
+    "generation": 14965
+  },
+  {
+    "targetTime": "2024-01-24T10:00:00Z",
+    "generation": 14879
+  },
+  {
+    "targetTime": "2024-01-24T10:30:00Z",
+    "generation": 14837
+  },
+  {
+    "targetTime": "2024-01-24T11:00:00Z",
+    "generation": 14882
+  },
+  {
+    "targetTime": "2024-01-24T11:30:00Z",
+    "generation": 14782
+  },
+  {
+    "targetTime": "2024-01-24T12:00:00Z",
+    "generation": 14859
+  },
+  {
+    "targetTime": "2024-01-24T12:30:00Z",
+    "generation": 14817
+  },
+  {
+    "targetTime": "2024-01-24T13:00:00Z",
+    "generation": 14727
+  },
+  {
+    "targetTime": "2024-01-24T13:30:00Z",
+    "generation": 14459
+  },
+  {
+    "targetTime": "2024-01-24T14:00:00Z",
+    "generation": 14200
+  },
+  {
+    "targetTime": "2024-01-24T14:30:00Z",
+    "generation": 14398
+  },
+  {
+    "targetTime": "2024-01-24T15:00:00Z",
+    "generation": 14210
+  },
+  {
+    "targetTime": "2024-01-24T15:30:00Z",
+    "generation": 14282
+  },
+  {
+    "targetTime": "2024-01-24T16:00:00Z",
+    "generation": 13797
+  },
+  {
+    "targetTime": "2024-01-24T16:30:00Z",
+    "generation": 13163
+  },
+  {
+    "targetTime": "2024-01-24T17:00:00Z",
+    "generation": 12907
+  },
+  {
+    "targetTime": "2024-01-24T17:30:00Z",
+    "generation": 13105
+  },
+  {
+    "targetTime": "2024-01-24T18:00:00Z",
+    "generation": 12889
+  },
+  {
+    "targetTime": "2024-01-24T18:30:00Z",
+    "generation": 12513
+  },
+  {
+    "targetTime": "2024-01-24T19:00:00Z",
+    "generation": 11844
+  },
+  {
+    "targetTime": "2024-01-24T19:30:00Z",
+    "generation": 11620
+  },
+  {
+    "targetTime": "2024-01-24T20:00:00Z",
+    "generation": 11630
+  },
+  {
+    "targetTime": "2024-01-24T20:30:00Z",
+    "generation": 10866
+  },
+  {
+    "targetTime": "2024-01-24T21:00:00Z",
+    "generation": 10361
+  },
+  {
+    "targetTime": "2024-01-24T21:30:00Z",
+    "generation": 10012
+  },
+  {
+    "targetTime": "2024-01-24T22:00:00Z",
+    "generation": 9429
+  },
+  {
+    "targetTime": "2024-01-24T22:30:00Z",
+    "generation": 8572
+  },
+  {
+    "targetTime": "2024-01-24T23:00:00Z",
+    "generation": 8380
+  },
+  {
+    "targetTime": "2024-01-24T23:30:00Z",
+    "generation": 7759
+  },
+  {
+    "targetTime": "2024-01-25T00:00:00Z",
+    "generation": 7512
+  },
+  {
+    "targetTime": "2024-01-25T00:30:00Z",
+    "generation": 7202
+  },
+  {
+    "targetTime": "2024-01-25T01:00:00Z",
+    "generation": 6910
+  },
+  {
+    "targetTime": "2024-01-25T01:30:00Z",
+    "generation": 6442
+  },
+  {
+    "targetTime": "2024-01-25T02:00:00Z",
+    "generation": 6321
+  },
+  {
+    "targetTime": "2024-01-25T02:30:00Z",
+    "generation": 6066
+  },
+  {
+    "targetTime": "2024-01-25T03:00:00Z",
+    "generation": 6055
+  },
+  {
+    "targetTime": "2024-01-25T03:30:00Z",
+    "generation": 6376
+  },
+  {
+    "targetTime": "2024-01-25T04:00:00Z",
+    "generation": 6007
+  },
+  {
+    "targetTime": "2024-01-25T04:30:00Z",
+    "generation": 5719
+  },
+  {
+    "targetTime": "2024-01-25T05:00:00Z",
+    "generation": 6135
+  },
+  {
+    "targetTime": "2024-01-25T05:30:00Z",
+    "generation": 6266
+  },
+  {
+    "targetTime": "2024-01-25T06:00:00Z",
+    "generation": 6573
+  },
+  {
+    "targetTime": "2024-01-25T06:30:00Z",
+    "generation": 6894
+  },
+  {
+    "targetTime": "2024-01-25T07:00:00Z",
+    "generation": 7496
+  },
+  {
+    "targetTime": "2024-01-25T07:30:00Z",
+    "generation": 8145
+  },
+  {
+    "targetTime": "2024-01-25T08:00:00Z",
+    "generation": 8529
+  },
+  {
+    "targetTime": "2024-01-25T08:30:00Z",
+    "generation": 9601
+  },
+  {
+    "targetTime": "2024-01-25T09:00:00Z",
+    "generation": 10362
+  },
+  {
+    "targetTime": "2024-01-25T09:30:00Z",
+    "generation": 10975
+  },
+  {
+    "targetTime": "2024-01-25T10:00:00Z",
+    "generation": 11463
+  },
+  {
+    "targetTime": "2024-01-25T10:30:00Z",
+    "generation": 12224
+  },
+  {
+    "targetTime": "2024-01-25T11:00:00Z",
+    "generation": 12490
+  },
+  {
+    "targetTime": "2024-01-25T11:30:00Z",
+    "generation": 12648
+  },
+  {
+    "targetTime": "2024-01-25T12:00:00Z",
+    "generation": 12824
+  },
+  {
+    "targetTime": "2024-01-25T12:30:00Z",
+    "generation": 13216
+  },
+  {
+    "targetTime": "2024-01-25T13:00:00Z",
+    "generation": 13605
+  },
+  {
+    "targetTime": "2024-01-25T13:30:00Z",
+    "generation": 13712
+  },
+  {
+    "targetTime": "2024-01-25T14:00:00Z",
+    "generation": 13819
+  },
+  {
+    "targetTime": "2024-01-25T14:30:00Z",
+    "generation": 13627
+  },
+  {
+    "targetTime": "2024-01-25T15:00:00Z",
+    "generation": 13601
+  },
+  {
+    "targetTime": "2024-01-25T15:30:00Z",
+    "generation": 13968
+  },
+  {
+    "targetTime": "2024-01-25T16:00:00Z",
+    "generation": 14202
+  },
+  {
+    "targetTime": "2024-01-25T16:30:00Z",
+    "generation": 14049
+  },
+  {
+    "targetTime": "2024-01-25T17:00:00Z",
+    "generation": 14242
+  },
+  {
+    "targetTime": "2024-01-25T17:30:00Z",
+    "generation": 14444
+  },
+  {
+    "targetTime": "2024-01-25T18:00:00Z",
+    "generation": 14704
+  },
+  {
+    "targetTime": "2024-01-25T18:30:00Z",
+    "generation": 14618
+  },
+  {
+    "targetTime": "2024-01-25T19:00:00Z",
+    "generation": 14109
+  },
+  {
+    "targetTime": "2024-01-25T19:30:00Z",
+    "generation": 14245
+  },
+  {
+    "targetTime": "2024-01-25T20:00:00Z",
+    "generation": 14402
+  },
+  {
+    "targetTime": "2024-01-25T20:30:00Z",
+    "generation": 14577
+  },
+  {
+    "targetTime": "2024-01-25T21:00:00Z",
+    "generation": 14506
+  },
+  {
+    "targetTime": "2024-01-25T21:30:00Z",
+    "generation": 14513
+  },
+  {
+    "targetTime": "2024-01-25T22:00:00Z",
+    "generation": 14593
+  },
+  {
+    "targetTime": "2024-01-25T22:30:00Z",
+    "generation": 14650
+  },
+  {
+    "targetTime": "2024-01-25T23:00:00Z",
+    "generation": 14478
+  },
+  {
+    "targetTime": "2024-01-25T23:30:00Z",
+    "generation": 14456
+  },
+  {
+    "targetTime": "2024-01-26T00:00:00Z",
+    "generation": 14317
+  },
+  {
+    "targetTime": "2024-01-26T00:30:00Z",
+    "generation": 14259
+  },
+  {
+    "targetTime": "2024-01-26T01:00:00Z",
+    "generation": 14422
+  },
+  {
+    "targetTime": "2024-01-26T01:30:00Z",
+    "generation": 14285
+  },
+  {
+    "targetTime": "2024-01-26T02:00:00Z",
+    "generation": 14316
+  },
+  {
+    "targetTime": "2024-01-26T02:30:00Z",
+    "generation": 14488
+  },
+  {
+    "targetTime": "2024-01-26T03:00:00Z",
+    "generation": 14523
+  },
+  {
+    "targetTime": "2024-01-26T03:30:00Z",
+    "generation": 14509
+  },
+  {
+    "targetTime": "2024-01-26T04:00:00Z",
+    "generation": 14632
+  },
+  {
+    "targetTime": "2024-01-26T04:30:00Z",
+    "generation": 14723
+  },
+  {
+    "targetTime": "2024-01-26T05:00:00Z",
+    "generation": 14692
+  },
+  {
+    "targetTime": "2024-01-26T05:30:00Z",
+    "generation": 14335
+  },
+  {
+    "targetTime": "2024-01-26T06:00:00Z",
+    "generation": 14547
+  },
+  {
+    "targetTime": "2024-01-26T06:30:00Z",
+    "generation": 14760
+  },
+  {
+    "targetTime": "2024-01-26T07:00:00Z",
+    "generation": 14603
+  },
+  {
+    "targetTime": "2024-01-26T07:30:00Z",
+    "generation": 14931
+  },
+  {
+    "targetTime": "2024-01-26T08:00:00Z",
+    "generation": 14722
+  },
+  {
+    "targetTime": "2024-01-26T08:30:00Z",
+    "generation": 14753
+  },
+  {
+    "targetTime": "2024-01-26T09:00:00Z",
+    "generation": 14620
+  },
+  {
+    "targetTime": "2024-01-26T09:30:00Z",
+    "generation": 14695
+  },
+  {
+    "targetTime": "2024-01-26T10:00:00Z",
+    "generation": 14755
+  },
+  {
+    "targetTime": "2024-01-26T10:30:00Z",
+    "generation": 14745
+  },
+  {
+    "targetTime": "2024-01-26T11:00:00Z",
+    "generation": 15050
+  },
+  {
+    "targetTime": "2024-01-26T11:30:00Z",
+    "generation": 15069
+  },
+  {
+    "targetTime": "2024-01-26T12:00:00Z",
+    "generation": 15103
+  },
+  {
+    "targetTime": "2024-01-26T12:30:00Z",
+    "generation": 14902
+  },
+  {
+    "targetTime": "2024-01-26T13:00:00Z",
+    "generation": 15185
+  },
+  {
+    "targetTime": "2024-01-26T13:30:00Z",
+    "generation": 15185
+  },
+  {
+    "targetTime": "2024-01-26T14:00:00Z",
+    "generation": 14854
+  },
+  {
+    "targetTime": "2024-01-26T14:30:00Z",
+    "generation": 14316
+  },
+  {
+    "targetTime": "2024-01-26T15:00:00Z",
+    "generation": 13927
+  },
+  {
+    "targetTime": "2024-01-26T15:30:00Z",
+    "generation": 13631
+  },
+  {
+    "targetTime": "2024-01-26T16:00:00Z",
+    "generation": 13208
+  },
+  {
+    "targetTime": "2024-01-26T16:30:00Z",
+    "generation": 12846
+  },
+  {
+    "targetTime": "2024-01-26T17:00:00Z",
+    "generation": 13030
+  },
+  {
+    "targetTime": "2024-01-26T17:30:00Z",
+    "generation": 12726
+  },
+  {
+    "targetTime": "2024-01-26T18:00:00Z",
+    "generation": 12745
+  },
+  {
+    "targetTime": "2024-01-26T18:30:00Z",
+    "generation": 12745
+  },
+  {
+    "targetTime": "2024-01-26T19:00:00Z",
+    "generation": 12733
+  },
+  {
+    "targetTime": "2024-01-26T19:30:00Z",
+    "generation": 12520
+  },
+  {
+    "targetTime": "2024-01-26T20:00:00Z",
+    "generation": 12562
+  },
+  {
+    "targetTime": "2024-01-26T20:30:00Z",
+    "generation": 12482
+  },
+  {
+    "targetTime": "2024-01-26T21:00:00Z",
+    "generation": 12454
+  },
+  {
+    "targetTime": "2024-01-26T21:30:00Z",
+    "generation": 12380
+  },
+  {
+    "targetTime": "2024-01-26T22:00:00Z",
+    "generation": 12336
+  },
+  {
+    "targetTime": "2024-01-26T22:30:00Z",
+    "generation": 12080
+  },
+  {
+    "targetTime": "2024-01-26T23:00:00Z",
+    "generation": 11989
+  },
+  {
+    "targetTime": "2024-01-26T23:30:00Z",
+    "generation": 12011
+  },
+  {
+    "targetTime": "2024-01-27T00:00:00Z",
+    "generation": 11898
+  },
+  {
+    "targetTime": "2024-01-27T00:30:00Z",
+    "generation": 11691
+  },
+  {
+    "targetTime": "2024-01-27T01:00:00Z",
+    "generation": 11576
+  },
+  {
+    "targetTime": "2024-01-27T01:30:00Z",
+    "generation": 11267
+  },
+  {
+    "targetTime": "2024-01-27T02:00:00Z",
+    "generation": 11146
+  },
+  {
+    "targetTime": "2024-01-27T02:30:00Z",
+    "generation": 10923
+  },
+  {
+    "targetTime": "2024-01-27T03:00:00Z",
+    "generation": 10526
+  },
+  {
+    "targetTime": "2024-01-27T03:30:00Z",
+    "generation": 10415
+  },
+  {
+    "targetTime": "2024-01-27T04:00:00Z",
+    "generation": 10210
+  },
+  {
+    "targetTime": "2024-01-27T04:30:00Z",
+    "generation": 10206
+  },
+  {
+    "targetTime": "2024-01-27T05:00:00Z",
+    "generation": 9962
+  },
+  {
+    "targetTime": "2024-01-27T05:30:00Z",
+    "generation": 9844
+  },
+  {
+    "targetTime": "2024-01-27T06:00:00Z",
+    "generation": 9601
+  },
+  {
+    "targetTime": "2024-01-27T06:30:00Z",
+    "generation": 9574
+  },
+  {
+    "targetTime": "2024-01-27T07:00:00Z",
+    "generation": 9683
+  },
+  {
+    "targetTime": "2024-01-27T07:30:00Z",
+    "generation": 10004
+  },
+  {
+    "targetTime": "2024-01-27T08:00:00Z",
+    "generation": 10340
+  },
+  {
+    "targetTime": "2024-01-27T08:30:00Z",
+    "generation": 10674
+  },
+  {
+    "targetTime": "2024-01-27T09:00:00Z",
+    "generation": 11012
+  },
+  {
+    "targetTime": "2024-01-27T09:30:00Z",
+    "generation": 11163
+  },
+  {
+    "targetTime": "2024-01-27T10:00:00Z",
+    "generation": 11366
+  },
+  {
+    "targetTime": "2024-01-27T10:30:00Z",
+    "generation": 11564
+  },
+  {
+    "targetTime": "2024-01-27T11:00:00Z",
+    "generation": 11512
+  },
+  {
+    "targetTime": "2024-01-27T11:30:00Z",
+    "generation": 11940
+  },
+  {
+    "targetTime": "2024-01-27T12:00:00Z",
+    "generation": 11957
+  },
+  {
+    "targetTime": "2024-01-27T12:30:00Z",
+    "generation": 11930
+  },
+  {
+    "targetTime": "2024-01-27T13:00:00Z",
+    "generation": 11761
+  },
+  {
+    "targetTime": "2024-01-27T13:30:00Z",
+    "generation": 12002
+  },
+  {
+    "targetTime": "2024-01-27T14:00:00Z",
+    "generation": 11712
+  },
+  {
+    "targetTime": "2024-01-27T14:30:00Z",
+    "generation": 11448
+  },
+  {
+    "targetTime": "2024-01-27T15:00:00Z",
+    "generation": 11419
+  },
+  {
+    "targetTime": "2024-01-27T15:30:00Z",
+    "generation": 11183
+  },
+  {
+    "targetTime": "2024-01-27T16:00:00Z",
+    "generation": 11093
+  },
+  {
+    "targetTime": "2024-01-27T16:30:00Z",
+    "generation": 11595
+  },
+  {
+    "targetTime": "2024-01-27T17:00:00Z",
+    "generation": 11721
+  },
+  {
+    "targetTime": "2024-01-27T17:30:00Z",
+    "generation": 11815
+  },
+  {
+    "targetTime": "2024-01-27T18:00:00Z",
+    "generation": 11500
+  },
+  {
+    "targetTime": "2024-01-27T18:30:00Z",
+    "generation": 11350
+  },
+  {
+    "targetTime": "2024-01-27T19:00:00Z",
+    "generation": 11124
+  },
+  {
+    "targetTime": "2024-01-27T19:30:00Z",
+    "generation": 11529
+  },
+  {
+    "targetTime": "2024-01-27T20:00:00Z",
+    "generation": 11453
+  },
+  {
+    "targetTime": "2024-01-27T20:30:00Z",
+    "generation": 11359
+  },
+  {
+    "targetTime": "2024-01-27T21:00:00Z",
+    "generation": 11309
+  },
+  {
+    "targetTime": "2024-01-27T21:30:00Z",
+    "generation": 11256
+  },
+  {
+    "targetTime": "2024-01-27T22:00:00Z",
+    "generation": 11292
+  },
+  {
+    "targetTime": "2024-01-27T22:30:00Z",
+    "generation": 11686
+  },
+  {
+    "targetTime": "2024-01-27T23:00:00Z",
+    "generation": 11688
+  },
+  {
+    "targetTime": "2024-01-27T23:30:00Z",
+    "generation": 11479
+  },
+  {
+    "targetTime": "2024-01-28T00:00:00Z",
+    "generation": 11118
+  },
+  {
+    "targetTime": "2024-01-28T00:30:00Z",
+    "generation": 11096
+  },
+  {
+    "targetTime": "2024-01-28T01:00:00Z",
+    "generation": 11312
+  },
+  {
+    "targetTime": "2024-01-28T01:30:00Z",
+    "generation": 11819
+  },
+  {
+    "targetTime": "2024-01-28T02:00:00Z",
+    "generation": 11981
+  },
+  {
+    "targetTime": "2024-01-28T02:30:00Z",
+    "generation": 12440
+  },
+  {
+    "targetTime": "2024-01-28T03:00:00Z",
+    "generation": 12345
+  },
+  {
+    "targetTime": "2024-01-28T03:30:00Z",
+    "generation": 12232
+  },
+  {
+    "targetTime": "2024-01-28T04:00:00Z",
+    "generation": 12181
+  },
+  {
+    "targetTime": "2024-01-28T04:30:00Z",
+    "generation": 12365
+  },
+  {
+    "targetTime": "2024-01-28T05:00:00Z",
+    "generation": 12679
+  },
+  {
+    "targetTime": "2024-01-28T05:30:00Z",
+    "generation": 12853
+  },
+  {
+    "targetTime": "2024-01-28T06:00:00Z",
+    "generation": 12877
+  },
+  {
+    "targetTime": "2024-01-28T06:30:00Z",
+    "generation": 12622
+  },
+  {
+    "targetTime": "2024-01-28T07:00:00Z",
+    "generation": 12485
+  },
+  {
+    "targetTime": "2024-01-28T07:30:00Z",
+    "generation": 12484
+  },
+  {
+    "targetTime": "2024-01-28T08:00:00Z",
+    "generation": 12248
+  },
+  {
+    "targetTime": "2024-01-28T08:30:00Z",
+    "generation": 11948
+  },
+  {
+    "targetTime": "2024-01-28T09:00:00Z",
+    "generation": 12157
+  },
+  {
+    "targetTime": "2024-01-28T09:30:00Z",
+    "generation": 12523
+  },
+  {
+    "targetTime": "2024-01-28T10:00:00Z",
+    "generation": 12583
+  },
+  {
+    "targetTime": "2024-01-28T10:30:00Z",
+    "generation": 12639
+  },
+  {
+    "targetTime": "2024-01-28T11:00:00Z",
+    "generation": 12532
+  },
+  {
+    "targetTime": "2024-01-28T11:30:00Z",
+    "generation": 13063
+  },
+  {
+    "targetTime": "2024-01-28T12:00:00Z",
+    "generation": 13588
+  },
+  {
+    "targetTime": "2024-01-28T12:30:00Z",
+    "generation": 13682
+  },
+  {
+    "targetTime": "2024-01-28T13:00:00Z",
+    "generation": 13513
+  },
+  {
+    "targetTime": "2024-01-28T13:30:00Z",
+    "generation": 13316
+  },
+  {
+    "targetTime": "2024-01-28T14:00:00Z",
+    "generation": 13270
+  },
+  {
+    "targetTime": "2024-01-28T14:30:00Z",
+    "generation": 13332
+  },
+  {
+    "targetTime": "2024-01-28T15:00:00Z",
+    "generation": 13272
+  },
+  {
+    "targetTime": "2024-01-28T15:30:00Z",
+    "generation": 13519
+  },
+  {
+    "targetTime": "2024-01-28T16:00:00Z",
+    "generation": 13866
+  },
+  {
+    "targetTime": "2024-01-28T16:30:00Z",
+    "generation": 13931
+  },
+  {
+    "targetTime": "2024-01-28T17:00:00Z",
+    "generation": 14255
+  },
+  {
+    "targetTime": "2024-01-28T17:30:00Z",
+    "generation": 14439
+  },
+  {
+    "targetTime": "2024-01-28T18:00:00Z",
+    "generation": 14262
+  },
+  {
+    "targetTime": "2024-01-28T18:30:00Z",
+    "generation": 14047
+  },
+  {
+    "targetTime": "2024-01-28T19:00:00Z",
+    "generation": 13632
+  },
+  {
+    "targetTime": "2024-01-28T19:30:00Z",
+    "generation": 13162
+  },
+  {
+    "targetTime": "2024-01-28T20:00:00Z",
+    "generation": 12878
+  },
+  {
+    "targetTime": "2024-01-28T20:30:00Z",
+    "generation": 12400
+  },
+  {
+    "targetTime": "2024-01-28T21:00:00Z",
+    "generation": 12151
+  },
+  {
+    "targetTime": "2024-01-28T21:30:00Z",
+    "generation": 11717
+  },
+  {
+    "targetTime": "2024-01-28T22:00:00Z",
+    "generation": 11484
+  },
+  {
+    "targetTime": "2024-01-28T22:30:00Z",
+    "generation": 10969
+  },
+  {
+    "targetTime": "2024-01-28T23:00:00Z",
+    "generation": 10198
+  },
+  {
+    "targetTime": "2024-01-28T23:30:00Z",
+    "generation": 9898
+  },
+  {
+    "targetTime": "2024-01-29T00:00:00Z",
+    "generation": 9682
+  },
+  {
+    "targetTime": "2024-01-29T00:30:00Z",
+    "generation": 8765
+  },
+  {
+    "targetTime": "2024-01-29T01:00:00Z",
+    "generation": 7980
+  },
+  {
+    "targetTime": "2024-01-29T01:30:00Z",
+    "generation": 6853
+  },
+  {
+    "targetTime": "2024-01-29T02:00:00Z",
+    "generation": 6149
+  },
+  {
+    "targetTime": "2024-01-29T02:30:00Z",
+    "generation": 5889
+  },
+  {
+    "targetTime": "2024-01-29T03:00:00Z",
+    "generation": 5568
+  },
+  {
+    "targetTime": "2024-01-29T03:30:00Z",
+    "generation": 4809
+  },
+  {
+    "targetTime": "2024-01-29T04:00:00Z",
+    "generation": 4336
+  },
+  {
+    "targetTime": "2024-01-29T04:30:00Z",
+    "generation": 4145
+  },
+  {
+    "targetTime": "2024-01-29T05:00:00Z",
+    "generation": 3962
+  },
+  {
+    "targetTime": "2024-01-29T05:30:00Z",
+    "generation": 3754
+  },
+  {
+    "targetTime": "2024-01-29T06:00:00Z",
+    "generation": 3626
+  },
+  {
+    "targetTime": "2024-01-29T06:30:00Z",
+    "generation": 3748
+  },
+  {
+    "targetTime": "2024-01-29T07:00:00Z",
+    "generation": 4031
+  },
+  {
+    "targetTime": "2024-01-29T07:30:00Z",
+    "generation": 3996
+  },
+  {
+    "targetTime": "2024-01-29T08:00:00Z",
+    "generation": 3909
+  },
+  {
+    "targetTime": "2024-01-29T08:30:00Z",
+    "generation": 3880
+  },
+  {
+    "targetTime": "2024-01-29T09:00:00Z",
+    "generation": 3928
+  },
+  {
+    "targetTime": "2024-01-29T09:30:00Z",
+    "generation": 3582
+  },
+  {
+    "targetTime": "2024-01-29T10:00:00Z",
+    "generation": 3337
+  },
+  {
+    "targetTime": "2024-01-29T10:30:00Z",
+    "generation": 3493
+  },
+  {
+    "targetTime": "2024-01-29T11:00:00Z",
+    "generation": 3669
+  },
+  {
+    "targetTime": "2024-01-29T11:30:00Z",
+    "generation": 3321
+  },
+  {
+    "targetTime": "2024-01-29T12:00:00Z",
+    "generation": 2918
+  },
+  {
+    "targetTime": "2024-01-29T12:30:00Z",
+    "generation": 3004
+  },
+  {
+    "targetTime": "2024-01-29T13:00:00Z",
+    "generation": 3078
+  },
+  {
+    "targetTime": "2024-01-29T13:30:00Z",
+    "generation": 3405
+  },
+  {
+    "targetTime": "2024-01-29T14:00:00Z",
+    "generation": 3761
+  },
+  {
+    "targetTime": "2024-01-29T14:30:00Z",
+    "generation": 3948
+  },
+  {
+    "targetTime": "2024-01-29T15:00:00Z",
+    "generation": 4342
+  },
+  {
+    "targetTime": "2024-01-29T15:30:00Z",
+    "generation": 5053
+  },
+  {
+    "targetTime": "2024-01-29T16:00:00Z",
+    "generation": 5949
+  },
+  {
+    "targetTime": "2024-01-29T16:30:00Z",
+    "generation": 6769
+  },
+  {
+    "targetTime": "2024-01-29T17:00:00Z",
+    "generation": 7372
+  },
+  {
+    "targetTime": "2024-01-29T17:30:00Z",
+    "generation": 7538
+  },
+  {
+    "targetTime": "2024-01-29T18:00:00Z",
+    "generation": 8035
+  },
+  {
+    "targetTime": "2024-01-29T18:30:00Z",
+    "generation": 8669
+  },
+  {
+    "targetTime": "2024-01-29T19:00:00Z",
+    "generation": 9019
+  },
+  {
+    "targetTime": "2024-01-29T19:30:00Z",
+    "generation": 9221
+  },
+  {
+    "targetTime": "2024-01-29T20:00:00Z",
+    "generation": 9178
+  },
+  {
+    "targetTime": "2024-01-29T20:30:00Z",
+    "generation": 9171
+  },
+  {
+    "targetTime": "2024-01-29T21:00:00Z",
+    "generation": 9077
+  },
+  {
+    "targetTime": "2024-01-29T21:30:00Z",
+    "generation": 8994
+  },
+  {
+    "targetTime": "2024-01-29T22:00:00Z",
+    "generation": 8875
+  },
+  {
+    "targetTime": "2024-01-29T22:30:00Z",
+    "generation": 8784
+  },
+  {
+    "targetTime": "2024-01-29T23:00:00Z",
+    "generation": 8699
+  },
+  {
+    "targetTime": "2024-01-29T23:30:00Z",
+    "generation": 9021
+  },
+  {
+    "targetTime": "2024-01-30T00:00:00Z",
+    "generation": 9135
+  },
+  {
+    "targetTime": "2024-01-30T00:30:00Z",
+    "generation": 9551
+  },
+  {
+    "targetTime": "2024-01-30T01:00:00Z",
+    "generation": 9883
+  },
+  {
+    "targetTime": "2024-01-30T01:30:00Z",
+    "generation": 10064
+  },
+  {
+    "targetTime": "2024-01-30T02:00:00Z",
+    "generation": 10237
+  },
+  {
+    "targetTime": "2024-01-30T02:30:00Z",
+    "generation": 10203
+  },
+  {
+    "targetTime": "2024-01-30T03:00:00Z",
+    "generation": 10370
+  },
+  {
+    "targetTime": "2024-01-30T03:30:00Z",
+    "generation": 10407
+  },
+  {
+    "targetTime": "2024-01-30T04:00:00Z",
+    "generation": 10203
+  },
+  {
+    "targetTime": "2024-01-30T04:30:00Z",
+    "generation": 10038
+  },
+  {
+    "targetTime": "2024-01-30T05:00:00Z",
+    "generation": 10076
+  },
+  {
+    "targetTime": "2024-01-30T05:30:00Z",
+    "generation": 10233
+  },
+  {
+    "targetTime": "2024-01-30T06:00:00Z",
+    "generation": 10215
+  },
+  {
+    "targetTime": "2024-01-30T06:30:00Z",
+    "generation": 10197
+  },
+  {
+    "targetTime": "2024-01-30T07:00:00Z",
+    "generation": 10107
+  },
+  {
+    "targetTime": "2024-01-30T07:30:00Z",
+    "generation": 9934
+  },
+  {
+    "targetTime": "2024-01-30T08:00:00Z",
+    "generation": 9672
+  },
+  {
+    "targetTime": "2024-01-30T08:30:00Z",
+    "generation": 9438
+  },
+  {
+    "targetTime": "2024-01-30T09:00:00Z",
+    "generation": 9195
+  },
+  {
+    "targetTime": "2024-01-30T09:30:00Z",
+    "generation": 9069
+  },
+  {
+    "targetTime": "2024-01-30T10:00:00Z",
+    "generation": 9066
+  },
+  {
+    "targetTime": "2024-01-30T10:30:00Z",
+    "generation": 9243
+  },
+  {
+    "targetTime": "2024-01-30T11:00:00Z",
+    "generation": 9565
+  },
+  {
+    "targetTime": "2024-01-30T11:30:00Z",
+    "generation": 9283
+  },
+  {
+    "targetTime": "2024-01-30T12:00:00Z",
+    "generation": 8628
+  },
+  {
+    "targetTime": "2024-01-30T12:30:00Z",
+    "generation": 8437
+  },
+  {
+    "targetTime": "2024-01-30T13:00:00Z",
+    "generation": 8442
+  },
+  {
+    "targetTime": "2024-01-30T13:30:00Z",
+    "generation": 8412
+  },
+  {
+    "targetTime": "2024-01-30T14:00:00Z",
+    "generation": 8626
+  },
+  {
+    "targetTime": "2024-01-30T14:30:00Z",
+    "generation": 8149
+  },
+  {
+    "targetTime": "2024-01-30T15:00:00Z",
+    "generation": 7823
+  },
+  {
+    "targetTime": "2024-01-30T15:30:00Z",
+    "generation": 7826
+  },
+  {
+    "targetTime": "2024-01-30T16:00:00Z",
+    "generation": 7604
+  },
+  {
+    "targetTime": "2024-01-30T16:30:00Z",
+    "generation": 7238
+  },
+  {
+    "targetTime": "2024-01-30T17:00:00Z",
+    "generation": 7193
+  },
+  {
+    "targetTime": "2024-01-30T17:30:00Z",
+    "generation": 7008
+  },
+  {
+    "targetTime": "2024-01-30T18:00:00Z",
+    "generation": 6626
+  },
+  {
+    "targetTime": "2024-01-30T18:30:00Z",
+    "generation": 6483
+  },
+  {
+    "targetTime": "2024-01-30T19:00:00Z",
+    "generation": 6415
+  },
+  {
+    "targetTime": "2024-01-30T19:30:00Z",
+    "generation": 6509
+  },
+  {
+    "targetTime": "2024-01-30T20:00:00Z",
+    "generation": 6622
+  },
+  {
+    "targetTime": "2024-01-30T20:30:00Z",
+    "generation": 6700
+  },
+  {
+    "targetTime": "2024-01-30T21:00:00Z",
+    "generation": 7217
+  },
+  {
+    "targetTime": "2024-01-30T21:30:00Z",
+    "generation": 7247
+  },
+  {
+    "targetTime": "2024-01-30T22:00:00Z",
+    "generation": 7214
+  },
+  {
+    "targetTime": "2024-01-30T22:30:00Z",
+    "generation": 7688
+  },
+  {
+    "targetTime": "2024-01-30T23:00:00Z",
+    "generation": 7592
+  },
+  {
+    "targetTime": "2024-01-30T23:30:00Z",
+    "generation": 7049
+  },
+  {
+    "targetTime": "2024-01-31T00:00:00Z",
+    "generation": 7009
+  },
+  {
+    "targetTime": "2024-01-31T00:30:00Z",
+    "generation": 7207
+  },
+  {
+    "targetTime": "2024-01-31T01:00:00Z",
+    "generation": 7248
+  },
+  {
+    "targetTime": "2024-01-31T01:30:00Z",
+    "generation": 7371
+  },
+  {
+    "targetTime": "2024-01-31T02:00:00Z",
+    "generation": 7463
+  },
+  {
+    "targetTime": "2024-01-31T02:30:00Z",
+    "generation": 7964
+  },
+  {
+    "targetTime": "2024-01-31T03:00:00Z",
+    "generation": 8175
+  },
+  {
+    "targetTime": "2024-01-31T03:30:00Z",
+    "generation": 8432
+  },
+  {
+    "targetTime": "2024-01-31T04:00:00Z",
+    "generation": 8687
+  },
+  {
+    "targetTime": "2024-01-31T04:30:00Z",
+    "generation": 8908
+  },
+  {
+    "targetTime": "2024-01-31T05:00:00Z",
+    "generation": 9519
+  },
+  {
+    "targetTime": "2024-01-31T05:30:00Z",
+    "generation": 10010
+  },
+  {
+    "targetTime": "2024-01-31T06:00:00Z",
+    "generation": 10509
+  },
+  {
+    "targetTime": "2024-01-31T06:30:00Z",
+    "generation": 11156
+  },
+  {
+    "targetTime": "2024-01-31T07:00:00Z",
+    "generation": 11728
+  },
+  {
+    "targetTime": "2024-01-31T07:30:00Z",
+    "generation": 12411
+  },
+  {
+    "targetTime": "2024-01-31T08:00:00Z",
+    "generation": 12836
+  },
+  {
+    "targetTime": "2024-01-31T08:30:00Z",
+    "generation": 13321
+  },
+  {
+    "targetTime": "2024-01-31T09:00:00Z",
+    "generation": 13747
+  },
+  {
+    "targetTime": "2024-01-31T09:30:00Z",
+    "generation": 13602
+  },
+  {
+    "targetTime": "2024-01-31T10:00:00Z",
+    "generation": 14183
+  },
+  {
+    "targetTime": "2024-01-31T10:30:00Z",
+    "generation": 14245
+  },
+  {
+    "targetTime": "2024-01-31T11:00:00Z",
+    "generation": 14352
+  },
+  {
+    "targetTime": "2024-01-31T11:30:00Z",
+    "generation": 14739
+  },
+  {
+    "targetTime": "2024-01-31T12:00:00Z",
+    "generation": 15177
+  },
+  {
+    "targetTime": "2024-01-31T12:30:00Z",
+    "generation": 15701
+  },
+  {
+    "targetTime": "2024-01-31T13:00:00Z",
+    "generation": 15997
+  },
+  {
+    "targetTime": "2024-01-31T13:30:00Z",
+    "generation": 15868
+  },
+  {
+    "targetTime": "2024-01-31T14:00:00Z",
+    "generation": 15818
+  },
+  {
+    "targetTime": "2024-01-31T14:30:00Z",
+    "generation": 15691
+  },
+  {
+    "targetTime": "2024-01-31T15:00:00Z",
+    "generation": 15911
+  },
+  {
+    "targetTime": "2024-01-31T15:30:00Z",
+    "generation": 15865
+  },
+  {
+    "targetTime": "2024-01-31T16:00:00Z",
+    "generation": 15762
+  },
+  {
+    "targetTime": "2024-01-31T16:30:00Z",
+    "generation": 15544
+  },
+  {
+    "targetTime": "2024-01-31T17:00:00Z",
+    "generation": 15683
+  },
+  {
+    "targetTime": "2024-01-31T17:30:00Z",
+    "generation": 15654
+  },
+  {
+    "targetTime": "2024-01-31T18:00:00Z",
+    "generation": 15411
+  },
+  {
+    "targetTime": "2024-01-31T18:30:00Z",
+    "generation": 15736
+  },
+  {
+    "targetTime": "2024-01-31T19:00:00Z",
+    "generation": 15812
+  },
+  {
+    "targetTime": "2024-01-31T19:30:00Z",
+    "generation": 15661
+  },
+  {
+    "targetTime": "2024-01-31T20:00:00Z",
+    "generation": 15684
+  },
+  {
+    "targetTime": "2024-01-31T20:30:00Z",
+    "generation": 15827
+  },
+  {
+    "targetTime": "2024-01-31T21:00:00Z",
+    "generation": 15757
+  },
+  {
+    "targetTime": "2024-01-31T21:30:00Z",
+    "generation": 15719
+  },
+  {
+    "targetTime": "2024-01-31T22:00:00Z",
+    "generation": 15490
+  },
+  {
+    "targetTime": "2024-01-31T22:30:00Z",
+    "generation": 14908
+  },
+  {
+    "targetTime": "2024-01-31T23:00:00Z",
+    "generation": 14595
+  },
+  {
+    "targetTime": "2024-01-31T23:30:00Z",
+    "generation": 14355
+  }
+]

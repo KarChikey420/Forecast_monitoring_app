@@ -1,6 +1,13 @@
 import { NextResponse } from "next/server";
-import { fetchForecastsRaw } from "@/lib/elexon";
-import { filterForecastsByHorizon } from "@/lib/forecast-utils";
+import forecastsData from "@/data/forecasts-jan2024.json";
+
+interface ForecastRecord {
+  targetTime: string;
+  publishTime: string;
+  generation: number;
+}
+
+const allForecasts: ForecastRecord[] = forecastsData as ForecastRecord[];
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -9,29 +16,53 @@ export async function GET(request: Request) {
   const horizonParam = searchParams.get("horizon");
 
   if (!start || !end || horizonParam === null) {
-    return NextResponse.json({ error: "Missing start, end, or horizon params" }, { status: 400 });
+    return NextResponse.json(
+      { error: "Missing start, end, or horizon params" },
+      { status: 400 }
+    );
   }
 
-  const horizon = parseFloat(horizonParam);
+  const startMs = new Date(start).getTime();
+  const endMs = new Date(end).getTime();
+  const horizonHours = parseFloat(horizonParam);
+  const horizonMs = horizonHours * 3600 * 1000;
 
-  try {
-    const rawData = await fetchForecastsRaw(start, end);
+  // Step 1: Filter forecasts to the requested date range (by targetTime)
+  const inRange = allForecasts.filter((f) => {
+    const t = new Date(f.targetTime).getTime();
+    return t >= startMs && t <= endMs;
+  });
 
-    // Filter by horizon
-    const filtered = filterForecastsByHorizon(rawData, horizon);
+  // Step 2: For each targetTime, find the LATEST forecast where
+  // publishTime <= targetTime - horizon
+  const targetMap = new Map<string, ForecastRecord>();
 
-    // Format and sort Data
-    const formatted = filtered
-      .filter((d) => d.startTime && d.generation !== undefined)
-      .map((d) => ({
-        targetTime: d.startTime,
-        generation: d.generation,
-      }))
-      .sort((a, b) => new Date(a.targetTime).getTime() - new Date(b.targetTime).getTime());
+  for (const f of inRange) {
+    const targetMs = new Date(f.targetTime).getTime();
+    const publishMs = new Date(f.publishTime).getTime();
 
-    return NextResponse.json(formatted);
-  } catch (error) {
-    console.error("Error fetching forecasts:", error);
-    return NextResponse.json({ error: "Failed to fetch forecasts" }, { status: 500 });
+    // Condition: publishTime <= (targetTime - horizon)
+    if (publishMs <= targetMs - horizonMs) {
+      const existing = targetMap.get(f.targetTime);
+      if (
+        !existing ||
+        new Date(f.publishTime).getTime() > new Date(existing.publishTime).getTime()
+      ) {
+        targetMap.set(f.targetTime, f);
+      }
+    }
   }
+
+  // Format output
+  const result = Array.from(targetMap.values())
+    .map((d) => ({
+      targetTime: d.targetTime,
+      generation: d.generation,
+    }))
+    .sort(
+      (a, b) =>
+        new Date(a.targetTime).getTime() - new Date(b.targetTime).getTime()
+    );
+
+  return NextResponse.json(result);
 }

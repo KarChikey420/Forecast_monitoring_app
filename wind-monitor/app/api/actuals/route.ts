@@ -1,5 +1,12 @@
 import { NextResponse } from "next/server";
-import { fetchActualsRaw } from "@/lib/elexon";
+import actualsData from "@/data/actuals-jan2024.json";
+
+interface ActualRecord {
+  targetTime: string;
+  generation: number;
+}
+
+const allActuals: ActualRecord[] = actualsData as ActualRecord[];
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -10,21 +17,14 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "Missing start or end params" }, { status: 400 });
   }
 
-  try {
-    const rawData = await fetchActualsRaw(start, end);
+  const startMs = new Date(start).getTime();
+  const endMs = new Date(end).getTime();
 
-    // Format and sort Data
-    const formatted = rawData
-      .filter((d) => d.fuelType === "WIND" && d.startTime && d.generation !== undefined)
-      .map((d) => ({
-        targetTime: d.startTime,
-        generation: d.generation,
-      }))
-      .sort((a, b) => new Date(a.targetTime).getTime() - new Date(b.targetTime).getTime());
+  // Filter actuals within the requested date range
+  const filtered = allActuals.filter((d) => {
+    const t = new Date(d.targetTime).getTime();
+    return t >= startMs && t <= endMs;
+  });
 
-    return NextResponse.json(formatted);
-  } catch (error) {
-    console.error("Error fetching actuals:", error);
-    return NextResponse.json({ error: "Failed to fetch actuals" }, { status: 500 });
-  }
+  return NextResponse.json(filtered);
 }

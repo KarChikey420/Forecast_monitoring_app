@@ -22,7 +22,7 @@ export default function Controls({
   onHorizonChange,
 }: ControlsProps) {
   return (
-    <div className="flex flex-col md:flex-row gap-6 items-end justify-between z-10 relative mb-4">
+    <div className="flex flex-col md:flex-row gap-4 md:gap-6 items-start md:items-end justify-between z-10 relative mb-4">
       <div className="flex flex-col sm:flex-row gap-4 w-full md:w-auto">
         <div className="flex flex-col gap-1.5">
           <label className="text-sm text-slate-700">Start Time:</label>
@@ -33,7 +33,7 @@ export default function Controls({
             timeFormat="HH:mm"
             timeIntervals={30}
             dateFormat="dd/MM/yyyy HH:mm"
-            className="border border-slate-300 rounded px-2 py-1 text-sm focus:outline-none focus:border-blue-500 w-full sm:w-[150px]"
+            className="border border-slate-300 rounded px-3 py-2 text-sm focus:outline-none focus:border-blue-500 w-full sm:w-[180px]"
           />
         </div>
         
@@ -46,12 +46,12 @@ export default function Controls({
             timeFormat="HH:mm"
             timeIntervals={30}
             dateFormat="dd/MM/yyyy HH:mm"
-            className="border border-slate-300 rounded px-2 py-1 text-sm focus:outline-none focus:border-blue-500 w-full sm:w-[150px]"
+            className="border border-slate-300 rounded px-3 py-2 text-sm focus:outline-none focus:border-blue-500 w-full sm:w-[180px]"
           />
         </div>
       </div>
 
-      <div className="flex flex-col gap-1.5 w-full md:w-1/3 min-w-[200px] max-w-[300px] mb-1">
+      <div className="flex flex-col gap-1.5 w-full md:w-1/3 min-w-[200px] md:max-w-[300px] mb-1">
         <label className="text-sm text-slate-700" htmlFor="horizon-slider">
           Forecast Horizon: {horizon}h
         </label>

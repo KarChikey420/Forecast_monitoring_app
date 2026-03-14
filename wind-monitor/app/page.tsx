@@ -11,15 +11,12 @@ import { Loader2 } from "lucide-react";
 export default function Home() {
   const [startDate, setStartDate] = useState<Date | null>(null);
   const [endDate, setEndDate] = useState<Date | null>(null);
-  const [horizon, setHorizon] = useState<number>(0);
+  const [horizon, setHorizon] = useState<number>(4);
 
-  // Initialize dates only on the client
+  // Initialize dates to January 2024 (requirement: data only for January 2024)
   useEffect(() => {
-    const today = new Date();
-    const twoDaysAgo = new Date(today);
-    twoDaysAgo.setDate(today.getDate() - 2);
-    setStartDate(twoDaysAgo);
-    setEndDate(today);
+    setStartDate(new Date("2024-01-01T00:00:00Z"));
+    setEndDate(new Date("2024-01-03T00:00:00Z"));
   }, []);
 
   const [actuals, setActuals] = useState<{ targetTime: string; generation: number }[]>([]);
@@ -165,7 +162,7 @@ export default function Home() {
         <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100 min-h-[500px] flex flex-col relative transition-all">
           <h2 className="text-lg font-bold text-slate-800 mb-6 flex items-center gap-2">
             Generation Overview
-            <span className="text-xs font-semibold bg-green-100 text-green-700 px-2 py-0.5 rounded-full">LIVE</span>
+            <span className="text-xs font-semibold bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full">JAN 2024</span>
           </h2>
           
           <div className="flex-1 w-full">
