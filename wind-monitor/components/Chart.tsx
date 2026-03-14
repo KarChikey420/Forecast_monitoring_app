@@ -24,11 +24,16 @@ interface ChartProps {
 }
 
 export default function Chart({ data }: ChartProps) {
-  const formatXAxis = (tickItem: string) => {
+  const formatXAxis = (tickItem: string | number) => {
     try {
-      return format(new Date(tickItem), "HH:mm dd/MM/yy");
+      const date = new Date(tickItem);
+      // Check for Invalid Date
+      if (isNaN(date.getTime())) {
+        return String(tickItem);
+      }
+      return format(date, "HH:mm dd/MM/yy");
     } catch {
-      return tickItem;
+      return String(tickItem);
     }
   };
 
@@ -41,7 +46,7 @@ export default function Chart({ data }: ChartProps) {
       return (
         <div className="bg-white/95 backdrop-blur-md border border-slate-200 p-4 rounded-xl shadow-lg">
           <p className="font-semibold text-slate-700 mb-2 border-b border-slate-100 pb-2">
-            {format(new Date(label), "HH:mm dd/MM/yyyy (UTC)")}
+            {format(new Date(label), "HH:mm dd/MM/yyyy '(UTC)'")}
           </p>
           {payload.map((entry: any, index: number) => (
             <div key={index} className="flex items-center justify-between gap-6 my-1">
@@ -55,7 +60,7 @@ export default function Chart({ data }: ChartProps) {
                 </span>
               </div>
               <span className="text-sm font-bold text-slate-800">
-                {entry.value !== undefined ? `${entry.value.toLocaleString()} MW` : "N/A"}
+                {entry.value !== undefined && entry.value !== null ? `${Number(entry.value).toLocaleString()} MW` : "N/A"}
               </span>
             </div>
           ))}
@@ -75,25 +80,27 @@ export default function Chart({ data }: ChartProps) {
   }
 
   return (
-    <div className="w-full h-full min-h-[400px] pr-4">
+    <div className="w-full h-[400px] pr-4">
       <ResponsiveContainer width="100%" height="100%">
-        <LineChart data={data} margin={{ top: 20, right: 10, left: 10, bottom: 20 }}>
-          <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
+        <LineChart data={data} margin={{ top: 30, right: 30, left: 20, bottom: 40 }}>
+          <CartesianGrid strokeDasharray="3 3" vertical={true} stroke="#f1f5f9" />
           <XAxis
             dataKey="targetTime"
             tickFormatter={formatXAxis}
-            tick={{ fontSize: 12, fill: "#64748b" }}
+            tick={{ fontSize: 12, fill: "#475569" }}
             axisLine={false}
             tickLine={false}
-            dy={15}
+            dy={10}
             minTickGap={40}
+            label={{ value: 'Target Time End (UTC)', position: 'insideBottom', offset: -25, fill: "#475569", fontSize: 14 }}
           />
           <YAxis
             tickFormatter={formatYAxis}
-            tick={{ fontSize: 12, fill: "#64748b" }}
+            tick={{ fontSize: 12, fill: "#475569" }}
             axisLine={false}
             tickLine={false}
-            dx={-10}
+            dx={-5}
+            label={{ value: 'Power (MW)', angle: -90, position: 'insideLeft', offset: -10, fill: "#475569", fontSize: 14 }}
           />
           <Tooltip content={<CustomTooltip />} />
           <Legend 

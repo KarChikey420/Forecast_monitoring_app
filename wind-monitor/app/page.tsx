@@ -1,15 +1,26 @@
 "use client";
 
 import { useState, useEffect, useMemo } from "react";
+import dynamic from "next/dynamic";
 import Controls from "@/components/Controls";
-import Chart, { ChartDataPoint } from "@/components/Chart";
+import { ChartDataPoint } from "@/components/Chart";
+const Chart = dynamic(() => import("@/components/Chart"), { ssr: false });
 import MetricsSummary from "@/components/MetricsSummary";
 import { Loader2 } from "lucide-react";
 
 export default function Home() {
-  const [startDate, setStartDate] = useState<Date | null>(new Date("2024-01-01T00:00:00Z"));
-  const [endDate, setEndDate] = useState<Date | null>(new Date("2024-01-02T00:00:00Z"));
+  const [startDate, setStartDate] = useState<Date | null>(null);
+  const [endDate, setEndDate] = useState<Date | null>(null);
   const [horizon, setHorizon] = useState<number>(0);
+
+  // Initialize dates only on the client
+  useEffect(() => {
+    const today = new Date();
+    const twoDaysAgo = new Date(today);
+    twoDaysAgo.setDate(today.getDate() - 2);
+    setStartDate(twoDaysAgo);
+    setEndDate(today);
+  }, []);
 
   const [actuals, setActuals] = useState<{ targetTime: string; generation: number }[]>([]);
   const [forecasts, setForecasts] = useState<{ targetTime: string; generation: number }[]>([]);
